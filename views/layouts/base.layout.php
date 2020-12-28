@@ -51,9 +51,6 @@
                         <a class="nav-link" title="Visit your store" href="#" target="_blank"><i class="fa fa-fw fa-window-restore"></i></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link">
-                    </li>
-                    <li class="nav-item">
                         <a class="nav-link" data-toggle="modal" data-target="#exampleModal">
                         <i class="fa fa-fw fa-sign-out"></i></a>
                     </li>
