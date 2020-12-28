@@ -9,3 +9,4 @@ $route['default'] = 'HomeController@index';
 $route['home'] = 'HomeController@index';
 $route['login'] = 'HomeController@login';
 $route['dashboard'] = 'HomeController@dashboard';
+$route['logout'] = 'HomeController@logout';

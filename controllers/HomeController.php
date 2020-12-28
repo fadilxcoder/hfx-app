@@ -75,6 +75,12 @@ class HomeController extends Controller {
         $this->view->render('dashboard.html', []);
     }
 
+    public function logout()
+    {
+        Session::destroy(Session::getPrefix(), true);
+        $this->redirectTo('login');
+    }
+
     public function __404()
     {
         $this->view->render('error/index');
