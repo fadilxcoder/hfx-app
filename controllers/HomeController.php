@@ -6,39 +6,72 @@ use Tracy\Debugger as Debugger;
 use Faker\Factory as Factory;
 use Symfony\Component\HttpFoundation\Request;
 use Handler\AppHelper;
+use Handler\Manager\UserManager;
+use Josantonius\Session\Session;
 
 class HomeController extends Controller {
 
     private $faker;
     private $homeModel;
     private $request;
+    private $usrMgr;
 
     public function __construct()
     {
         parent::__construct();
         $this->model->call('Home');
-        $this->homeModel = new Home;
+        $this->homeModel = new Home();
         Debugger::enable(Debugger::DEVELOPMENT);
         $this->faker = Factory::create();
         $this->request = Request::createFromGlobals();
+        $this->usrMgr = new UserManager();
     }
 
     public function index()
     {
-        $this->view->render('helifox-landing-page', [
-            'heading' => 'HeliFox',
-            'text' => 'XMicro Framework',
-            'users' => $this->homeModel->getAll(),
-        ]);
+        if (null !== Session::get("id_user")) {
+            $this->dashboard();
+        } else {
+            $this->login();
+        }
     }
 
     public function login()
     {
+        # $this->request->request === $_POST
+        
+        if ($this->request->isMethod('POST') && null !== $this->request->request->get('login')) {
+            $email = $this->request->request->get('adm_email');
+            $passwd = $this->request->request->get('password');
+            $encPasswrd = $this->usrMgr->encryptUserPassword($passwd);
+
+            $users = $this->homeModel->selectUser($email, $encPasswrd);
+            $validUser = $this->usrMgr->selectUserByUsernameAndPassword($users);
+
+            if (null !== $validUser) {
+                Session::set("id_user", $validUser['id_user']);
+                Session::set("name_user", $validUser['name']);
+                Session::set("uname_user", $validUser['username']);
+                $this->redirectTo('dashboard');
+            }
+
+            $this->view->render('login.html', [
+                'err' => 'Invalid Credentials',
+            ]);
+
+            return;
+        }
+        
         $this->view->render('login.html', []);
     }
 
     public function dashboard()
     {
+        // dump(Session::get("id_user"));
+        // dump(Session::get("name_user"));
+        // dump(Session::get("uname_user"));
+        // die;
+
         $this->view->render('dashboard.html', []);
     }
 

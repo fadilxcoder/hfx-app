@@ -4,6 +4,7 @@ namespace Handler\Manager;
 
 use \Library\Database;
 use Ramsey\Uuid\Uuid;
+use Josantonius\Session\Session;
 
 class UserManager
 {
@@ -12,5 +13,14 @@ class UserManager
         $encryptPassword = hash('sha512', $password);
         
         return $encryptPassword;
+    }
+
+    public function selectUserByUsernameAndPassword(Array $user)
+    {
+        if ($user && null !== $user && count($user) === 1) {
+            return $user[0];
+        }
+
+        return null;
     }
 }

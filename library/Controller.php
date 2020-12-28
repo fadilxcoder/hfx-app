@@ -5,6 +5,8 @@ namespace Library;
 use \Library\View as View;
 use \Library\Model as Model;
 use Handler\AppHelper;
+use Josantonius\Session\Session;
+
 
 class Controller{
 
@@ -12,6 +14,8 @@ class Controller{
     {
         $this->view = new View;
         $this->model = new Model;
+        Session::setPrefix('app_');
+        Session::init();
     }
 
     public function getIps()
