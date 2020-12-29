@@ -5,8 +5,8 @@
  * $route['contact-us.aspx']    = 'HomeController@contactus';
  * $route['about-us.jsp']       = 'HomeController@__404';
  */
-$route['default'] = 'HomeController@index';
-$route['home'] = 'HomeController@index';
-$route['login'] = 'HomeController@login';
-$route['dashboard'] = 'HomeController@dashboard';
-$route['logout'] = 'HomeController@logout';
+$route['default'] = 'AuthController@index';
+$route['home'] = 'AuthController@index';
+$route['login'] = 'AuthController@login';
+$route['logout'] = 'AuthController@logout';
+$route['dashboard'] = 'ProductController@dashboard';

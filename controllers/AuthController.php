@@ -9,7 +9,7 @@ use Handler\AppHelper;
 use Handler\Manager\UserManager;
 use Josantonius\Session\Session;
 
-class HomeController extends Controller {
+class AuthController extends Controller {
 
     private $faker;
     private $homeModel;
@@ -38,8 +38,11 @@ class HomeController extends Controller {
 
     public function login()
     {
+        if (null !== Session::get("id_user")) {
+            $this->dashboard();
+        }
+
         # $this->request->request === $_POST
-        
         if ($this->request->isMethod('POST') && null !== $this->request->request->get('login')) {
             $email = $this->request->request->get('adm_email');
             $passwd = $this->request->request->get('password');
@@ -64,15 +67,9 @@ class HomeController extends Controller {
         
         $this->view->render('login.html', []);
     }
-
     public function dashboard()
     {
-        // dump(Session::get("id_user"));
-        // dump(Session::get("name_user"));
-        // dump(Session::get("uname_user"));
-        // die;
-
-        $this->view->render('dashboard.html', []);
+        $this->redirectTo('dashboard');
     }
 
     public function logout()
