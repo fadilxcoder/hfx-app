@@ -19,7 +19,7 @@
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav navbar-sidenav" id="exampleAccordion">
                     <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Dashboard">
-                        <a class="nav-link" href="dashboard.php">
+                        <a class="nav-link" href="<?php echo URL ?>">
                             <i class="fa fa-fw fa-dashboard"></i>
                             <span class="nav-link-text">Dashboard</span>
                         </a>
@@ -27,7 +27,7 @@
                     <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Products">
                         <a class="nav-link nav-link-collapse collapsed" data-toggle="collapse" href="#collapseExamplePages" data-parent="#exampleAccordion">
                             <i class="fa fa-fw fa-sitemap"></i>
-                            <span class="nav-link-text">Products</span>
+                            <span class="nav-link-text">Users</span>
                         </a>
                         <ul class="sidenav-second-level collapse" id="collapseExamplePages">
                             <li>
@@ -48,7 +48,7 @@
                 </ul>
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a class="nav-link" title="Visit your store" href="#" target="_blank"><i class="fa fa-fw fa-window-restore"></i></a>
+                        <a class="nav-link" title="<?php echo $this->e($this->session('name_user')) ?>" href="#" target="_blank"><?php echo $this->e($this->session('uname_user')) ?></a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" data-toggle="modal" data-target="#exampleModal">

@@ -6,33 +6,32 @@
 <?php $this->start('body') ?>
 <div class="container-fluid">
     <div class="card mb-3">
-        <div class="card-header"><i class="fa fa-table"></i> 10 Latest Products</div>
+        <div class="card-header"><i class="fa fa-table"></i> <?php echo $this->e($this->uppercase('users'))?></div>
         <div class="card-body">
             <div class="table-responsive">
-                <table class="table table-bordered" width="100%" cellspacing="0">
+                <table class="table table-bordered" id="example" width="100%" cellspacing="0">
                     <thead>
                         <tr>
+                            <th>UUID</th>
                             <th>Name</th>
-                            <th>Description</th>
-                            <th>Price</th>
-                            <th>Photo</th>
+                            <th>Username</th>
+                            <th>Last login (Time)</th>
                         </tr>
                     </thead>
                     <tbody>
                     <?php
-                            // $result = latest10products();
-                            // if(!empty($result)){
-                                // foreach($result as $_result){
+                        if (!empty($users)) {
+                            foreach ($users as $_users) {
                     ?>
                         <tr>
-                            <td width="25%"><?php //echo $_result['name']; ?></td>
-                            <td width="60%"><?php //echo $_result['description']; ?></td>
-                            <td width="10%"><?php //echo $_result['price']; ?></td>
-                            <td width="5%"><img src="../images/<?php //echo $_result['main_image']; ?>" class="img-fluid rounded-circle"></td>
+                            <td><?php echo $_users['uuid'] ?></td>
+                            <td><?php echo $_users['name'] ?></td>
+                            <td><?php echo $_users['username'] ?></td>
+                            <td><?php echo $_users['last_login'] ?></td>
                         </tr>
                         <?php
-                                // }
-                            // }
+                                }
+                            }
                         ?>
                     </tbody>
                 </table>

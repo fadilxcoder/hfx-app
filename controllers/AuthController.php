@@ -1,15 +1,11 @@
 <?php
 
 use \Library\Controller as Controller;
-use \Models\Home as Home;
-use Tracy\Debugger as Debugger;
-use Faker\Factory as Factory;
-use Symfony\Component\HttpFoundation\Request;
-use Handler\AppHelper;
-use Handler\Manager\UserManager;
 use Josantonius\Session\Session;
+use Handler\Manager\UserManager;
 
-class AuthController extends Controller {
+class AuthController extends Controller 
+{
 
     private $faker;
     private $homeModel;
@@ -19,12 +15,12 @@ class AuthController extends Controller {
     public function __construct()
     {
         parent::__construct();
-        $this->model->call('Home');
-        $this->homeModel = new Home();
-        Debugger::enable(Debugger::DEVELOPMENT);
-        $this->faker = Factory::create();
-        $this->request = Request::createFromGlobals();
-        $this->usrMgr = new UserManager();
+        $this->container = $this->container();
+        $this->container['DI_debugger'];
+        $this->faker        = $this->container['DI_factory'];
+        $this->homeModel    = $this->container['DI_homeModel'];
+        $this->request      = $this->container['DI_request'];
+        $this->usrMgr       = new UserManager();
     }
 
     public function index()
@@ -42,7 +38,7 @@ class AuthController extends Controller {
             $this->dashboard();
         }
 
-        # $this->request->request === $_POST
+        # $this->request->request IS EQUAL TO $_POST
         if ($this->request->isMethod('POST') && null !== $this->request->request->get('login')) {
             $email = $this->request->request->get('adm_email');
             $passwd = $this->request->request->get('password');

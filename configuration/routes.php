@@ -9,4 +9,4 @@ $route['default'] = 'AuthController@index';
 $route['home'] = 'AuthController@index';
 $route['login'] = 'AuthController@login';
 $route['logout'] = 'AuthController@logout';
-$route['dashboard'] = 'ProductController@dashboard';
+$route['dashboard'] = 'UsersController@dashboard';

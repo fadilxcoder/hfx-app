@@ -3,13 +3,13 @@
 namespace Library;
 
 use \Library\View as View;
-use \Library\Model as Model;
 use Handler\AppHelper;
+use Handler\DependencyInjection;
 use Josantonius\Session\Session;
 
 
-class Controller{
-
+class Controller
+{
     public function __construct()
     {
         $this->view = new View;
@@ -36,5 +36,10 @@ class Controller{
     public function redirectTo(String $url)
     {
         return AppHelper::redirectTo($url);
+    }
+
+    public function container()
+    {
+        return DependencyInjection::init();
     }
 }

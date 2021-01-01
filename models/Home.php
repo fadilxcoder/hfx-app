@@ -3,18 +3,14 @@
 namespace Models;
 
 use \Library\Database as DB;
-use Handler\Manager\UserManager;
 
 class Home
 {
-
-    public function getAll() 
+    public function getAll()
     {
         $data = DB::getInstance()->select('users', "*" );
         return $data;
     }
-
-    
 
     public function selectUser(String $uname, String $encryptPassword)
     {
@@ -27,5 +23,4 @@ class Home
 
         return $user;
     }
-
 }

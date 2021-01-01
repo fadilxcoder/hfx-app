@@ -2,10 +2,6 @@
 
 namespace Handler\Manager;
 
-use \Library\Database;
-use Ramsey\Uuid\Uuid;
-use Josantonius\Session\Session;
-
 class UserManager
 {
     public function encryptUserPassword(String $password) 
