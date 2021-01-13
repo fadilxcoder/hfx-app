@@ -10,3 +10,5 @@ $route['home'] = 'AuthController@index';
 $route['login'] = 'AuthController@login';
 $route['logout'] = 'AuthController@logout';
 $route['dashboard'] = 'UsersController@dashboard';
+$route['users'] = 'UsersController@dashboard';
+$route['elastic-search'] = 'UsersController@searchEngine';

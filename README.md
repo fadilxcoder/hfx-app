@@ -4,7 +4,7 @@
 
 ## Notes
 
-- Use **virtual host***
+- Use **virtual host**
 - Templating engine `league/plates`
 - - Include file by `$this->insert('modals/logout.html')`
 - - Added function extension in `ViewManager.php`
@@ -12,5 +12,4 @@
 - Added dependency injection 
 - - Container in templates in `View.php`
 - - Call in `dashboard.html.php` by `dump($this->data['container']['DI_sessions'])`
-- - 
 

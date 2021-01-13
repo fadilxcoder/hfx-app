@@ -34,9 +34,15 @@
                                 <a href="#">Add </a>
                             </li>
                             <li>
-                                <a href="#">View All</a>
+                                <a href="<?php echo URL . 'users' ?>">View All</a>
                             </li>
                         </ul>
+                    </li>
+                    <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Dashboard">
+                        <a class="nav-link" href="<?php echo URL . 'elastic-search' ?>">
+                            <i class="fa fa-fw fa-search"></i>
+                            <span class="nav-link-text">Elasticsearch</span>
+                        </a>
                     </li>
                 </ul>
                 <ul class="navbar-nav sidenav-toggler">
