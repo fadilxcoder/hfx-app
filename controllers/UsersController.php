@@ -27,51 +27,25 @@ class UsersController extends Controller
     public function searchEngine()
     {
         $request = $this->container['DI_request'];
-        $resp = null;
+        $resp = ElasticsearchManager::getFakeUsers('', '', '');
+        $search = [
+            'name' => '',
+            'address' => '',
+            'email' => '',
+        ];
         
         if ($request->request->has('search')) :
-            $client = ElasticsearchManager::init();
-            $query = $client->search([
-                'size' => 100,
-                'index' => 'faker_data',
-                'body' => [
-                    'query' => [
-                        'bool' => [
-                            'must' => [
-                                // ['match' => [
-                                //     'email' => 'nicholaus.schultz@kuhic.com'
-                                // ]],
-                                ['prefix' => [
-                                    'name' => (null !== $request->request->get('name')) ? $request->request->get('name') : ''
-                                ]],
-                                ['prefix' => [
-                                    'address' => (null !== $request->request->get('addr')) ? $request->request->get('addr') : ''
-                                ]],
-                                ['prefix' => [
-                                    'email' => (null !== $request->request->get('email')) ? $request->request->get('email') : ''
-                                ]],
-                            ]
-                        ]
-                    ]
-                ]
-            ]);
-
-            if ($query['hits']['total']['value'] > 0):
-                $result = $query['hits']['hits'];
-                
-                foreach ($result as $_r) :
-                    $data = $_r['_source'];
-                    $resp[] = [
-                        'name' => $data['name'],
-                        'address' => $data['address'],
-                        'email' => $data['email'],
-                    ];
-                endforeach;
-            endif;
+            $search = [
+                'name' => (null !== $request->request->get('name')) ? $request->request->get('name') : '',
+                'address' => (null !== $request->request->get('addr')) ? $request->request->get('addr') : '',
+                'email' => (null !== $request->request->get('email')) ? $request->request->get('email') : '',
+            ];
+            $resp = ElasticsearchManager::getFakeUsers($search['name'], $search['address'], $search['email']);
         endif;
 
         $this->view->render('elasticsearch.html', [
             'results' => $resp,
+            'search' => $search,
         ]);
     }
 }

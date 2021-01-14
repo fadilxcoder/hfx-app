@@ -10,15 +10,15 @@
         <div class="card-body">
             <form class="form-inline text-center" action="" method="POST">
                 <div class="form-group">
-                    <input class="form-control" type="text" name="name" placeholder="Name">
+                    <input class="form-control" type="text" name="name" value="<?php echo $search['name']; ?>" placeholder="Name">
                     <label>&nbsp;&nbsp;&nbsp;&nbsp;</label>
                 </div>
                 <div class="form-group">
-                    <input class="form-control" type="text" name="addr" placeholder="Address">
+                    <input class="form-control" type="text" name="addr" value="<?php echo $search['address']; ?>" placeholder="Address">
                     <label>&nbsp;&nbsp;&nbsp;&nbsp;</label>
                 </div>
                 <div class="form-group">
-                    <input class="form-control" type="text" name="email" placeholder="Email">
+                    <input class="form-control" type="text" name="email" value="<?php echo $search['email']; ?>" placeholder="Email">
                     <label>&nbsp;&nbsp;&nbsp;&nbsp;</label>
                 </div>
                 <button class="btn btn-primary btn-default" name="search">Search..</button>
