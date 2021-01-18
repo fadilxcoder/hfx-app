@@ -16,6 +16,7 @@ class Controller
         $this->model = new Model;
         Session::setPrefix('app_');
         Session::init();
+        $this->container()['DI_debugger'];
     }
 
     public function getIps()

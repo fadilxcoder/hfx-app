@@ -10,6 +10,7 @@ use Handler\AppHelper;
 use \Library\Model;
 use \Models\Home;
 use Josantonius\Session\Session;
+use Handler\Manager\AlgoliaManager;
 
 class DependencyInjection
 {
@@ -47,6 +48,10 @@ class DependencyInjection
             ];
 
             return $sessions;
+        };
+
+        $container['DI_algolia'] = function () {
+            return new AlgoliaManager;
         };
 
         return $container;

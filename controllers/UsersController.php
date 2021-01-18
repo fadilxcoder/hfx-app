@@ -4,6 +4,7 @@ use Handler\Manager\SecurityManager;
 use \Library\Controller;
 use Handler\Manager\ElasticsearchManager;
 
+
 class UsersController extends Controller
 {
     public function __construct()
@@ -12,7 +13,7 @@ class UsersController extends Controller
         SecurityManager::verify();
         $this->container = $this->container();
         $this->homeModel = $this->container['DI_homeModel'];
-        $this->container['DI_debugger'];
+        $this->algolia = $this->container['DI_algolia'];
     }
 
     public function dashboard()
@@ -44,6 +45,32 @@ class UsersController extends Controller
         endif;
 
         $this->view->render('elasticsearch.html', [
+            'results' => $resp,
+            'search' => $search,
+        ]);
+    }
+
+    public function algoliaSearch()
+    {
+        $alg_index = 'alg_users';
+        $request = $this->container['DI_request'];
+
+        # Populating ALGOLIA
+        # $index = $this->algolia->initIdx('alg_users');
+        # $result = $this->homeModel->getAll();
+        #$this->algolia->insert($alg_index, $result); die;
+        
+        $result = $this->algolia->searchFor($alg_index, '');
+        $resp = $result['hits'];
+        $search = null;
+
+        if ($request->request->has('search')) :
+            $search = (null !== $request->request->get('name')) ? $request->request->get('name') : '';
+            $result = $this->algolia->searchFor($alg_index, $search);
+            $resp = $result['hits'];
+        endif;
+
+        $this->view->render('algolia.html', [
             'results' => $resp,
             'search' => $search,
         ]);

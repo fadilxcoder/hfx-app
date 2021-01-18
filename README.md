@@ -12,4 +12,8 @@
 - Added dependency injection 
 - - Container in templates in `View.php`
 - - Call in `dashboard.html.php` by `dump($this->data['container']['DI_sessions'])`
+- Elasticsearch
+- Algolia
+- - https://curl.haxx.se/ca/cacert.pem
+- - `curl.cainfo="C:\wamp64\www\hfx-app\cacert.pem"` in php.ini
 

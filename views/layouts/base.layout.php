@@ -44,6 +44,12 @@
                             <span class="nav-link-text">Elasticsearch</span>
                         </a>
                     </li>
+                    <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Dashboard">
+                        <a class="nav-link" href="<?php echo URL . 'algolia' ?>">
+                            <i class="fa fa-fw fa-search"></i>
+                            <span class="nav-link-text">Algolia</span>
+                        </a>
+                    </li>
                 </ul>
                 <ul class="navbar-nav sidenav-toggler">
                     <li class="nav-item">
