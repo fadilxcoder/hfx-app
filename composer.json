@@ -18,7 +18,8 @@
         "mrclay/minify": "^3.0",
         "pimple/pimple": "^3.3",
         "elasticsearch/elasticsearch": "^7.10",
-        "algolia/algoliasearch-client-php": "^2.7"
+        "algolia/algoliasearch-client-php": "^2.7",
+        "spatie/pdf-to-text": "^1.4"
     },
     "require-dev": {
         "tracy/tracy": "^2.7",

@@ -3,7 +3,7 @@
 use Handler\Manager\SecurityManager;
 use \Library\Controller;
 use Handler\Manager\ElasticsearchManager;
-
+use Spatie\PdfToText\Pdf;
 
 class UsersController extends Controller
 {
@@ -74,5 +74,18 @@ class UsersController extends Controller
             'results' => $resp,
             'search' => $search,
         ]);
+    }
+
+    public function readPdf()
+    {
+        // dump($_SERVER);
+        // dump();
+        $content = Pdf::getText($_SERVER['DOCUMENT_ROOT'] . 'public/assets/pdf/' . 'ICTA.pdf', 'C:\Program Files\Git\mingw64\bin\pdftotext.exe');
+        $filename = 'text-file.md';
+
+        file_put_contents($filename, $content);
+
+        
+        die;
     }
 }

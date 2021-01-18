@@ -16,4 +16,6 @@
 - Algolia
 - - https://curl.haxx.se/ca/cacert.pem
 - - `curl.cainfo="C:\wamp64\www\hfx-app\cacert.pem"` in php.ini
+- PDF to Text
+- - `composer require spatie/pdf-to-text`
 
