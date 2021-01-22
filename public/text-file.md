@@ -1,2732 +1,2961 @@
-<pre>﻿                        THE DATA PROTECTION ACT 2004
+<pre>﻿468                                    Acts 2017
 
-Act 13/2004
+                         THE DATA PROTECTION ACT 2017
 
-Proclaimed by [Proclamation No. 45 of 2004] w.e.f. 27.12.2004
+Act No. 20 of 2017
 
-                Sections 1 and 2 of Part I, Sections 4, 5(b), (c), (e), (g), (h), (i) and (j)
+                                       I assent
 
-                and 6 of Part II
+                                  BIBI AMEENAH FIRDAUS GURIB-FAKIM
 
-Proclaimed      by [Proclamation No. 5 of 2009] w.e.f 16th February 2009.
+22 December 2017                  			                  President of the Republic
 
-                SECTIONS 3, 5(a), (d) AND (f), 7 TO 16 AND 18 TO 66
-
-                           OF THE DATA PROTECTION ACT
-
-                                  assent
-
-                                                               ANEROOD JUGNAUTH
-
-                                                               President of the Republic
-
-17th June 2004
+                                      _______________
 
                              ARRANGEMENT OF SECTIONS
 
 Section
 
-                                  PART I - PRELIMINARY
+         PART I – PRELIMINARY
 
-1. Short title
+1.       Short title
 
-2. Interpretation
+2.       Interpretation
 
-3. Application of Act
+3.       Application of Act
 
-                        PART II - DATA PROTECTION OFFICE
+         PART II – DATA PROTECTION OFFICE
 
-4. Data Protection Office
+         Sub-Part A – Establishment of Data Protection Office
 
-5. Functions of Commissioner
+4.       Establishment of Office
 
-6. Confidentiality and oath
+         Sub-Part B – Functions and Powers of Commissioner
 
-                        PART III - POWERS OF COMMISSIONER
+5.       Functions of Commissioner
 
-7. Powers of Commissioner
+6.       Investigation of complaints
 
-8. Powers to obtain information
+7.       Power to require information
 
-9. Delegation of powers by Commissioner
+8.       Preservation Order
 
-10. Contents of notice
-11. Complaints
+9.       Enforcement notice
 
-12. Enforcement of notice
+10.      Power to seek assistance
+                                        Acts 2017                                   469
 
-13. Preservation Order
+     Sub-Part C – Powers of Authorised Officers
 
-14. Power to carry out prior security checks
+11.  Power of entry and search
 
-15. Compliance audit
+12.  Obstruction of Commissioner or authorised officer
 
-16. Powers to request assistance
+     Sub-Part D – Delegation of Power
 
-17. Powers of entry and search
+13.  Delegation of power by Commissioner
 
-18. Repealed by [Act No. 1 of 2009]
+     PART III – REGISTRATION OF CONTROLLERS AND PROCESSORS
 
-19. Obstruction of authorised officer
+14.  Controller and Processor
 
-20. Referral to police
+15.  Application for registration
 
-21.  Repealed by [Act No. 1 of 2009]
+16.  Issue of registration certificate
 
-22. Collection of personal data
+17.  Change in particulars
 
-23. Accuracy of personal data
+18.  Renewal of registration certificate
 
-24. Processing of personal data
+19.  Cancellation or variation of terms and conditions of registration certificate
 
-25. Processing of sensitive personal data
+20.  Register of controllers and processors
 
-26. Use of personal data
+     PART IV – OBLIGATIONS ON CONTROLLERS AND PROCESSORS
 
-27. Security of personal data
+21.  Principles relating to processing of personal data
 
-28. Duty to destroy personal data
+22.  Duties of controller
 
-29. Unlawful disclosure of personal data
+23.  Collection of personal data
 
-30. Processing of personal data for direct marketing
+24.  Conditions for consent
 
-31. Transfer of personal data
+25.  Notification of personal data breach
 
-32. Data matching
+26.  Communication of personal data breach to data subject
 
-PART V - THE DATA PROTECTION REGISTER
+27.  Duty to destroy personal data
 
-34. Application for registration
+28.  Lawful processing
 
-35. Particulars to be furnished by data controller
+29.  Special categories of personal data
 
-36. Contents of register
+30.  Personal data of child
 
-37. Inspection of register
+31.  Security of processing
 
-38. Duration of registration
+32.  Prior security check
 
-39. Failure to register or to renew registration
+33.  Record of processing operations
 
-40. Certificate issued by Commissioner
+			  PART V – PROCESSING OPERATIONS LIKELY TO PRESENT RISK
 
-                        PART VI - RIGHTS OF DATA SUBJECTS
+34.  Data protection impact assessment
 
-41. Access to personal data
+35.  Prior authorisation and consultation
+470                                    Acts 2017
 
-42. Compliance with request for access to personal data
+			  PART VI – TRANSFER OF PERSONAL DATA OUTSIDE MAURITIUS
 
-43. Denial of access to personal data
-44.  Inaccurate personal data
+36.  Transfer of personal data outside Mauritius
 
-                               PART VII - EXEMPTIONS
+     PART VII – RIGHTS OF DATA SUBJECTS
 
-45.  National security
+37.  Right of access
 
-46.  Crime and taxation
+38.  Automated individual decision making
 
-47.  Health and social work
+39.  Rectification, erasure or restriction of processing
 
-48.  Regulatory activities
+40.  Right to object
 
-49.  Journalism, literature and art
+41.  Exercise of rights
 
-50.  Research, history and statistics
+     PART VIII – OTHER OFFENCES AND PENALTIES
 
-51.  Information available to the public under an enactment
+42.  Unlawful disclosure of personal data
 
-52.  Disclosure required by law or in connection with legal proceedings
+43.  Offence for which no specific penalty provided
 
-53.  Legal professional privilege
+     PART IX – MISCELLANEOUS
 
-54.  Domestic purposes
+44.  Exceptions and restrictions
 
-                             PART VIIl - MISCELLANEOUS
+45.  Annual report
 
-55.  Annual report
+46.  Compliance audit
 
-56.  Codes and guidelines
+47.  Codes and guidelines
 
-57.  Service of notice
+48.  Certification
 
-58.  Right of appeal
+49.  Confidentiality and oath
 
-59.  Special jurisdiction of Tribunal
+50.  Protection from liability
 
-60.  Immunity
+51.  Right of appeal
 
-61.  Offences and penalties
+52.  Special jurisdiction of Tribunal
 
-62.  Forfeiture
+53.  Prosecution and jurisdiction
 
-63.  Prosecution and jurisdiction
+54.  Certificate issued by Commissioner
 
-64.  Consequential amendments
+55.  Regulations
 
-65.  Regulations
+56.  Repeal
 
-66.  Commencement
+57.  Transitional provisions
 
-                                   SECOND SCHEDULE
+58.  Commencement
 
-                                       __________
+     SCHEDULE
 
-                                       AN ACT
+                                ________________
+                                Acts 2017                                471
 
-To provide for the protection of the privacy rights of individuals in view of the
+                                An Act
 
-developments in the techniques used to capture, transmit, manipulate, record or
+    To provide for new legislation to strengthen the control and
 
-                             store data relating to individuals
-                                  PART I - PRELIMINARY
+    personal autonomy of data subjects over their personal data,
 
-    ENACTED by the Parliament of Mauritius, as follows -
+    in line with current relevant international standards,
+
+                      and for matters related thereto
+
+    ENACTED by the Parliament of Mauritius, as follows –
+
+                      PART I – PRELIMINARY
 
 1.  Short title
 
-    The Act may be cited as the Data Protection Act 2004.
+    This Act may be cited as the Data Protection Act 2017.
 
 2.  Interpretation
 
-    In this Act -
+    In this Act –
 
-    “adverse     action”,  in    relation  to   a  data       subject,  means  any    action  that  may
+    “authorised officer” means an officer to whom the Commissioner
 
-    adversely affect the person’s rights, benefits, privileges, obligations or interests;
+    has delegated his powers under section 13;
 
-    “authorised officer” means an officer to whom the Commissioner has delegated
+    “biometric data” means any personal data relating to the physical,
 
-    his powers under section 9;
+    physiological     or  behavioural   characteristics  of    an  individual
 
-    “blocking”,    in  relation  to   personal     data,  means  suspending    the    modification  of
+    which allow his unique identification, including facial images or
 
-    data, or suspending or restricting the provision of information to a third party
+    dactyloscopic data;
 
-    where such provision is suspended or restricted in accordance with this Act;
+    “collect” does not include receive unsolicited information;
 
-    “collect” does not include receipt of unsolicited information;
+    “Commissioner” means the Data Protection Commissioner referred
 
-    “Commissioner” means the Data Protection Commissioner referred to in section
+    to in section 4;
 
-    4;
+    “consent”      means  any   freely  given   specific,      informed  and
 
-        “computer”         means     any   device  for        storing   and  processing  information,
+    unambiguous indication of the wishes of a data subject, either by
 
-        whether        or  not   the  information         is  derived   from   other  information   by
+    a statement or a clear affirmative action, by which he signifies his
 
-        calculation, comparison or otherwise;
+    agreement to personal data relating to him being processed;
 
-    Added by [Act No. 1 of 2009]
+    “controller”   means  a  person    who  or  public   body  which,    alone
 
-    “consent” means any freely given specific and informed indication of the wishes
+    or jointly with others, determines the purposes and means of the
 
-    of the data subject by which he signifies his agreement to personal data relating
+    processing of personal data and has decision making power with
 
-    to him being processed;
+    respect to the processing;
+472                                Acts 2017
 
-    "data" means information in a form which -
-(a)      (i)     is capable of being processed by means of equipment operating
+     “data    subject”      means  an     identified      or  identifiable     individual,
 
-                 automatically in response to instructions given for that purpose;
+     in   particular    by  reference     to  an  identifier      such  as  a  name,  an
 
-                 and
+     identification number, location data, an online identifier or to one or
 
-         (ii)    is      recorded   with  the    intent  of     it  being     processed   by   such
+     more factors specific to the physical, physiological, genetic, mental,
 
-                 equipment; or
+     economic, cultural or social identity of that individual;
 
-(b)      is recorded as part of a relevant filing system or intended to be part of a
+     “document” includes –
 
-         relevant filing system;
+     (a)      a disc, tape or other device in which information other than
 
-"data    controller"  means  a      person   who,  either    alone   or    jointly  with  any  other
+              visual images are embodied so as to be capable, with or
 
-person,  makes        a   decision  with  regard   to  the   purposes      for  which     and  in  the
+              without the aid of some other equipment, of being reproduced
 
-manner in which any personal data are, or are to be, processed;
+              from the disc, tape or other device; and
 
-“data matching procedure” means any procedure, whether manually or by means
+     (b)      a  film,  tape  or   other  device      in   which  visual    images    are
 
-of any electronic or other device, whereby personal data collected for one or
+              embodied so as to be capable, with or without the aid of some
 
-more     purposes     in  respect   of   10  or  more    data       subjects  are   compared       with
+              other equipment, of being reproduced from the film, tape or
 
-personal data collected for any other purpose in respect of those data subjects
+              other device;
 
-where the comparison –
+     “encryption” means the process of transforming data into coded
 
-(a)      is for the purpose of producing or verifying data that; or
+     form;
 
-(b)      produces or verifies data in respect of which it is reasonable to believe
+     “filing     system”    means  a   structured     set     of  personal  data  which
 
-         that it is practicable that the data,
+     is   accessible    according  to     specific  criteria,     whether   centralised,
 
-may be used, whether immediately or at any subsequent time, for the purpose of
+     decentralised or dispersed on a functional or geographical basis;
 
-taking any adverse action against any of those data subjects;
+     “genetic    data”      means  personal       data     relating     to  the   general
 
-"data processor" means a person, other than an employee of the data controller,
+     characteristics of an individual which are inherited or acquired and
 
-who processes the data on behalf of the data controller;
+     which provide unique information about the physiology or health of
 
-"data protection principles" means the data protection principles specified in the
+     the individual and which result, in particular, from an analysis of a
 
-First Schedule;
+     biological sample from the individual in question;
 
-"data subject" means a living individual who is the subject of personal data;
+     “physical or mental health”, in relation to personal data, includes
 
-“direct  marketing”       means     the  communication      of  any  advertising    or    marketing
+     information on the provision of health care services to the individual,
 
-material which is directed to any particular individual;
-“document” includes –
+     which reveals his health status;
 
-     (a)        a disc, tape or any other device in which the data other than visual
+     “individual” means a living individual;
 
-     images are embodied so as to be capable, with or without the aid of some
+     “information and communication network” –
 
-     other equipment, of being reproduced from the disc, tape or other device;
+     (a)      means a network for the transmission of messages; and
 
-     and
+     (b)      includes a telecommunication network;
+                             Acts 2017                                 473
 
-     (b)        a film, tape or other device in which visual images are embodied
+“Minister” means the Minister to whom responsibility for the subject
 
-     as to be capable, with or without            the aid of some other equipment, of
+of data protection is assigned;
 
-     being reproduced from the film, tape or other device;
+“network”     means    a    communication  transmission       system   that
 
-     “information and communication technologies” –
+provides    interconnection  among   a     number  of  local  and   remote
 
-           (a)      means     technologies  employed     in  collecting,  storing,  using  or
+devices;
 
-                    sending out information; and
+“Office” means the Data Protection Office referred to in section 4;
 
-           (b)      includes  those  involving      the  use  of    computers       or     any
+“personal data” means any information relating to a data subject;
 
-                    telecommunication system;
+“personal data breach” means a breach of security leading to the
 
-     Added by [Act No. 1 of 2009]
+accidental or unlawful destruction, loss, alteration, unauthorised
 
-“inaccurate”,   in  relation  to  personal   data,  means     data  which  are      incorrect,
+disclosure of, or access to, personal data transmitted, stored or
 
-misleading, incomplete or obsolete;
-
-“individual” means a living individual;
-
-“information and communication network“ means a network for the transmission
-
-of messages and includes a telecommunication network;
-
-“network”  means    a         communication    transmission   system       that     provides
-
-interconnection among a number of local and remote devices;
-
-"office" means the Data Protection Office established under section 4;
-
-"personal data" means -
-
-(a)  data which relate to an         individual who can be identified from those data;
-
-     or
-(b)  data or other information, including an opinion forming part of a database,
-
-     whether or not recorded in a material form, about an individual whose
-
-     identity        is  apparent  or  can      reasonably   be   ascertained  from  the  data,
-
-     information or opinion;
+otherwise processed;
 
 “proceedings” –
 
-     (a)        means any proceedings conducted by or under the supervision of
+(a)   means any proceedings conducted by or under the supervision
 
-     a Judge, Magistrate or judicial officer; and
+      of a Judge or Magistrate; and
 
-     (b)        includes –
+(b)   may include –
 
-                (i)      any inquiry or investigation into a criminal offence; and
+      (i)     an inquiry or investigation into an offence; and
 
-                (ii)     any disciplinary proceedings;
+      (ii)    disciplinary proceedings;
 
-"processing" means any operation or set of operations which is performed on the
+“processor” means a person who, or public body which, processes
 
-data wholly or partly by automatic means, or otherwise than by automatic means,
+personal data on behalf of a controller;
 
-and includes -
+“processing” means an operation or set of operations performed on
 
-(a)  collecting, organising or altering the data;
+personal data or sets of personal data, whether or not by automated
 
-(b)  retrieving, consulting, using, storing or adapting the data;
+means, such as collection, recording, organisation, structuring, storage,
 
-(c)  disclosing the data by transmitting, disseminating or otherwise making it
+adaptation or alteration, retrieval, consultation, use, disclosure by
 
-     available; or
+transmission, dissemination or otherwise making available, alignment
 
-(d)  aligning, combining, blocking, erasing or destroying the data;
+or combination, restriction, erasure or destruction;
 
-"register" means the register referred to in section 33;
+“profiling” means any form of automated processing of personal
 
-"relevant    filing  system"       means   a    structured   set  of  information  relating  to
+data  consisting  of   the  use  of  personal  data   to  evaluate  certain
 
-individuals  that,       although  it  is  not  in  a  form  capable  of  being      processed
+personal aspects relating to an individual, in particular to analyse
 
-automatically, is structured, either by reference to any individual or by reference
+or   predict  aspects  concerning    that  individual’s   performance      at
 
-to criteria relating to the individual, in such a way that the structure allows ready
+work, economic situation, health, personal preferences, interests,
 
-accessibility to information relating to that individual;
+reliability, behaviour, location or movements;
+474                      Acts 2017
 
-“relevant function” means –
-(a)  any function conferred on any person by or under any enactment;
+     “pseudonymisation”  means  the       processing  of  personal  data        in
 
-(b)  any function of any Minister; or
+     such a manner that the personal data can no longer be attributed
 
-(c)  any other function     which      is  of  a   public  nature    and  is  exercised  in  the
+     to a specific data subject without the use of additional information
 
-     public interest;
+     and the additional information is kept separately and is subject to
 
-“relevant person”, in relation to a data subject, means –
+     technical and organisational measures to ensure that the personal
 
-     (a)     where     the  data   subject     is  a  minor,  a  person   who  has  parental
+     data are not attributed to an identified or identifiable individual;
 
-     authority over the minor or has been appointed as his guardian by the
+     “recipient” means a person to whom, or a public body to which,
 
-     Court;
+     personal data are disclosed, whether a third party or not;
 
-     (b)     where the data subject is physically and mentally unfit, a person
+     “register” means the register referred to in section 20;
 
-     who has been appointed his guardian by the Court;
+     “registration certificate” means the registration certificate referred to
 
-     (c)     in any other case, a person duly authorised in writing by the data
+     in section 16 (2);
 
-     subject to make a request under sections 41 and 44;
+     “restriction of processing” means the marking of stored personal
 
-"sensitive personal data" means personal information concerning a data subject
+     data with the aim of limiting their processing in the future;
 
-and consisting of information as to -
+     “special categories of personal data”, in relation to a data subject,
 
-(a)  the racial or ethnic origin;
+     means personal data pertaining to –
 
-(b)  political opinion or adherence;
+     (a)  his racial or ethnic origin;
 
-(c)  religious belief or other belief of a similar nature;
+     (b)  his political opinion or adherence;
 
-(d)  membership to a trade union;
+     (c)  his religious or philosophical beliefs;
 
-(e)  physical or mental health;
+     (d)  his membership of a trade union;
 
-(f)  sexual preferences or practices;
+     (e)  his physical or mental health or condition;
 
-(g)  the commission or alleged commission of an offence; or
+     (f)  his sexual orientation, practices or preferences;
 
-(h)  any  proceedings       for  an    offence     committed     or  alleged  to  have   been
+     (g)  his genetic data or biometric data uniquely identifying him;
 
-     committed by him, the disposal of such proceedings or the sentence of
+     (h)  the commission or alleged commission of an offence by him;
 
-     any court in such proceedings;
-    “telecommunication network” means a system, or a series of systems, operating
+     (i)  any proceedings for an offence committed or alleged to have
 
-    within such boundaries as may be prescribed, for the transmission or reception of
+          been committed by him, the disposal of such proceedings or
 
-    messages by means of guided or unguided electro-magnetic energy or both;
+          the sentence of any Court in the proceedings; or
 
-    “third party” in relation to personal data, means any person other than –
+     (j)  such other personal data as the Commissioner may determine
 
-              (a)    the data subject;
+          to be sensitive personal data;
+                                  Acts 2017                                           475
 
-              (b)    a relevant person in the case of a data subject;
+    “telecommunication         network”       means  a    system,     or  a   series  of
 
-              (c)    the data controller; or
+    systems, operating within such boundaries as may be prescribed,
 
-              (d)    a  person  authorised    in  writing     by   the  data   controller  to  collect,
+    for the transmission or reception of messages by means of guided or
 
-              hold, process or use   the data –
+    unguided electro magnetic energy or both;
 
-    (i)       under the direct control of the data controller; or
+    “third party” means a person or public body other than a data subject,
 
-    (ii)      on behalf of the data controller;
+    a controller, a processor or a person who, under the direct authority
 
-    “traffic  data”  means     any   data  relating  to    a  communication    by     means        of  a
+    of a controller or processor, who or which is authorised to process
 
-    computer system and generated by the system that form part in the chain of
+    personal data;
 
-    communication,      indicating   the   communication’s    origin,   destination,    route,  time,
+    “traffic  data”     means     any  data   relating    to  a  communication        by
 
-    date, size, duration, or type of underlying service;
+    means of a computer system and generated by the system that form
 
-    "Tribunal"     means  the   ICT  Appeal      Tribunal     set  up   under  section     36  of  the
+    part in the chain of communication, indicating the communication’s
 
-    Information and Communication T-echnologies Act 2001;
+    origin,   destination,  route,     time,  date,  size,    duration,   or  type    of
 
-    “underlying service” means the type of service that is used within the computer
+    underlying service;
 
-    system;
+    “Tribunal” means the ICT Appeal Tribunal set up under section 35
 
-    “use” in relation to personal data, includes disclose or transfer the data.
-
-Amended by [Act No. 1 of 2009]
+    of the Information and Communication Technologies Act.
 
 3.  Application of Act
 
-    (1)       This Act shall bind the State.
-         (2)  For the purposes of this Act, each Ministry or Government department
+    (1)      This Act shall bind the State.
 
-              shall  be  treated          as   separate   from  any   other  Ministry    or  Government
+    (2)      For the purposes of this Act, each Ministry or Government
 
-              department.
+department   shall  be   treated  as   separate     from  any    other    Ministry    or
 
-         (3)  Subject to Part VII, this Act shall apply to a data controller -
+Government department.
 
-              (a)      who is established in Mauritius and processes data in the context
+    (3)      This Act shall apply to the processing of personal data, wholly
 
-                       of that establishment; and
+or partly, by automated means and to any processing otherwise than by
 
-              (b)      who            is  not  established  in  Mauritius    but   uses  equipment  in
+automated means where the personal data form part of a filing system or
 
-                       Mauritius for processing data, other than for the purpose of transit
+are intended to form part of a filing system.
 
-                       through Mauritius.
+    (4)      This Act shall not apply to –
 
-         (4)  A data controller, falling within subsection (3)(b) shall nominate for
+             (a)    the  exchange      of     information        between     Ministries,
 
-         the  purposes of this Act, a representative established in Mauritius.
+                    Government         departments   and      public  sector  agencies
 
-         (5)  For the purposes of subsection (3)(a) any person who -
+                    where such exchange is required on a need-to-know basis;
 
-              (a)      is ordinarily resident in Mauritius;
+             (b)    the processing of personal data by an individual in the
 
-              (b)      carries out data processing activities through an office, branch or
+                    course of a purely personal or household activity.
+476                           Acts 2017
 
-                       agency in Mauritius,
+     (5)   Subject to section 44, this Act shall apply to a controller or
 
-              shall be treated as being established in Mauritius.
+processor who –
 
-         (6)  Subject    to  the          provisions  of  this  Act,  every  data  controller  and  data
+           (a)     is established in Mauritius and processes personal data
 
-              processor shall comply with the data protection principles.
+                   in the context of that establishment; and
 
-         Amended by [Act No. 1 of 2009]
+           (b)     is not established in Mauritius but uses equipment in
 
-                         PART II - DATA PROTECTION OFFICE
+                   Mauritius for processing personal data, other than for
 
-     4.  Data Protection Office
+                   the purpose of transit through Mauritius.
 
-(1)           There is established for the purposes of this Act a Data Protection Office
+     (6)   Every controller or processor referred to in subsection (5)(b)
 
-     which shall be a public office.
+shall nominate a representative established in Mauritius.
 
-(2)  The head of the office shall be known as the Data Protection Commissioner.
+     (7)   For the purpose of subsection (5)(a), any person who –
 
-(3)  The Commissioner shall be a barrister with at least 5 years standing at the Bar.
-(4)  The Commissioner shall be assisted by such public officers as may be necessary.
+           (a)     is ordinarily resident in Mauritius; or
 
-         (5)  Every   public    officer  referred     to  in  subsection     (4)  shall   be   under  the
+           (b)     carries out data processing operations through an office,
 
-              administrative control of the Commissioner.
+                   branch or agency in Mauritius,
 
-     5.  Functions of Commissioner
+shall be treated as being established in Mauritius.
 
-         The Commissioner shall -
+           PART II – DATA PROTECTION OFFICE
 
-              (a)       ensure compliance with this Act, and any regulations made under
+           Sub-Part A – Establishment of Data Protection Office
 
-              the Act;
+4.   Establishment of Office
 
-              (b)       issue or approve codes of practice or guidelines for the purposes
+     (1)   There shall, for the purposes of this Act, be a public office to
 
-              of this Act;
+be known as the Data Protection Office.
 
-              (c)       create  and  maintain      a  register  of  all  data     controllers  and    data
+     (2)   In the discharge of its functions under this Act, the Office
 
-              processors
+shall act with complete independence and impartiality and shall not be
 
-              Amended by [Act No. 1 of 2009]
+subject to the control or direction of any other person or authority.
 
-              (d)       exercise control on all data processing activities, either of its own
+     (3)   The head of the Office, who shall be known as the Data
 
-              motion    or  at  the  request   of     a   data  subject,  and     verify  whether     the
+Protection Commissioner, shall be a barrister of not less than 5 years’
 
-              processing of data is in accordance of this Act or regulations made under
+standing.
 
-              the Act;
+     (4)   The Commissioner shall be assisted by such public officers as
 
-              (e)       promote      self-regulation      among     data     controllers       and    data
+may be necessary.
+                              Acts 2017                                  477
 
-              processors;
+    (5)  Every public officer referred to in subsection (4) shall be
 
-              (f)       investigate  any  complaint       or    information    which     give  rise   to  a
+under the administrative control of the Commissioner.
 
-              suspicion that an offence, under this Act may have been, is being or is
+    Sub-Part B – Functions and Powers of Commissioner
 
-              about to be committed;
+5.  Functions of Commissioner
 
-              (g)       take such measures as may be necessary so as to bring to the
+    The Commissioner shall –
 
-              knowledge of the general public the provisions of this Act;
+    (a)  ensure compliance with this Act and any regulations made
 
-         (h)  undertake research into, and monitor developments in, data processing,
+         under it;
 
-              including data-matching, data linkage and information and communication
-          technologies, and ensure that there are no significant risks of any adverse
+    (b)  issue or approve such Codes of Practice or Guidelines for the
 
-          effects of those developments on the privacy of individuals;
+         purposes of this Act as he thinks fit;
 
-                   Amended by [Act No. 1 of 2009]
+    (c)  maintain a register of controllers and processors;
 
-    (i)   examine any proposal for data matching or data linkage that may involve
+    (d)  exercise control on all data processing operations, either of
 
-          an   interference    with,    or  may    otherwise    have  adverse       effects  on   the
+         his own motion or at the request of a data subject, and verify
 
-          privacy  of  individuals      and,  ensure  that      any   adverse  effects       of   such
+         whether the processing of data is done in accordance with
 
-          proposal on the privacy of individuals are minimised;
+         this Act;
 
-    (ia)  co-operate with supervisory authorities of other countries, to the extent
+    (e)  promote self-regulation among controllers and processors;
 
-          necessary for the performance of his duties under this Act, in particular by
+    (f)  investigate any complaint or information which gives rise to a
 
-          exchanging relevant information in accordance with any other enactment;
+         suspicion that an offence may have been, is being or is about
 
-          Added by [Act No. 1 of 2009]
+         to be, committed under this Act;
 
-    (j)   do anything incidental or conducive to the attainment of the objects of,
+    (g)  take such measures as may be necessary to bring the provisions
 
-          and to the better performance of his duties and functions under this Act.
+         of this Act to the knowledge of the general public;
 
-    Amended by [Act No. 1 of 2009]; [Act No. 14 of 2009]
+    (h)  undertake     research  into,  and  monitor   developments       in,
 
-6.  Confidentiality and oath
+         data processing, and ensure that there is no significant risk
 
-    (1)   The  Commissioner,        and     every  officer  of  the  office  shall  take     the  oath
+         or adverse effect of any developments on the privacy of
 
-          specified in the Second Schedule.
+         individuals;
 
-    (2)   No   person  who     is   or  has   been  the     Commissioner       or   an  authorised
+    (i)  examine    any  proposal  for   automated     decision  making   or
 
-          officer  shall, except –
+         data linkage that may involve an interference with, or may
 
-          Amended by [Act No. 1 of 2009]
+         otherwise have an adverse effect, on the privacy of individuals
 
-    (a)   in accordance with this Act or any other enactment;
+         and ensure that any adverse effect of the proposal on the
 
-          upon a Court order; or
+         privacy of individuals is minimised;
+478                          Acts 2017
 
-    (b)            as authorised by the order of a Judge,
+     (j)  cooperate with supervisory authorities of other countries, to
 
-    divulge any information obtained in the exercise of a power or in the performance
+          the extent necessary for the performance of his duties under
 
-    of a duty under this Act.
+          this Act, in particular by exchanging relevant information in
 
-    (3)   The Commissioner or any authorised officer, who otherwise than in the
+          accordance with any other enactment; and
 
-          course of his duties, uses or records personal data or sensitive personal
-            data, that comes to his knowledge or to which he has access by reason of
+     (k)  do anything incidental or conducive to the attainment of the
 
-            his  position    as  Commissioner     or  authorised       officer,  shall  commit    an
+          objects of and to the better performance of his duties and
 
-            offence.
+          functions under, this Act.
 
-    (4)     Any person, who without lawful excuse, contravenes subsection (2),
+6.   Investigation of complaints
 
-    shall   commit  an  offence  and      shall,  on  conviction,      be  liable  to   a  fine   not
+     (1)  Where a complaint is made to the Commissioner that this Act
 
-    exceeding 50,000 rupees and to imprisonment for a term not exceeding 2
+or any regulations made under it, has or have been, is or are being, or is or
 
-    years.
+are about to be, contravened, the Commissioner shall –
 
-    Amended by [Act No. 1 of 2009]
+          (a)  investigate into the complaint or cause it to be investigated
 
-                      PART III - POWERS OF COMMISSIONER
+               by an authorised officer, unless he is of the opinion that
 
-7.  Powers of Commissioner
+               the complaint is frivolous or vexatious; and
 
-    The Commissioner shall have power, for the purpose of carrying out his functions
+          (b)  where he is unable to arrange, within a reasonable time,
 
-    to do all such acts as appear to him to be requisite, advantageous or convenient
+               for the amicable resolution by the parties concerned of
 
-    for, or in connection with the carrying out of these functions.
+               the complaint, notify, in writing, the individual who
 
-8.  Powers to obtain information
+               made the complaint of his decision in relation to it so
 
-    Subject to section 26 of the Bank of Mauritius Act, section 64 of the Banking Act,
+               that the individual may, where he considers that he
 
-section 83 of the Financial Services Act and section 30 of the Financial Intelligence and
+               is aggrieved by the decision, appeal against it under
 
-Anti-Money Laundering Act –
+               section 51.
 
-            (a)       the    Commissioner  may,       by  notice   in  writing   served       on  any
+     (2)  (a)  The   Commissioner     may,       for    the  purpose   of      the
 
-                      person,    request   from   that    person,      such      information  as  is
+investigation of a complaint, order any person to –
 
-                      necessary or expedient for the performance of his functions and
+               (i)   attend  at   a   specified      time  and  place  for     the
 
-                      exercise of his powers and duties under this Act; and
+                     purpose of being examined orally in relation to
 
-            (b)       where the information requested by the Commissioner is stored
+                     the complaint;
 
-                      in a computer, disc, cassette, or on microfilm, or preserved by
+               (ii)  produce such book, document, record or article as
 
-                      any mechanical or electronic device, the person named in the
+                     may be required with respect to any matter relevant
 
-                      notice shall produce or give access to the information in a form in
+                     to the investigation, which he is not prevented by
 
-                      which it can be taken away and in which it is visible and legible.
+                     any other enactment from disclosing; or
+                                   Acts 2017                                     479
 
-Amended by [Act No. 14 of 2009]
+                   (iii)   furnish a statement in writing made under oath or
 
-9.  Delegation of powers by Commissioner
-     The Commissioner may delegate any of his investigating and enforcement
+                           on affirmation setting out all information which
 
-     powers conferred upon him by this Act to any officer of his office and to
+                           may be required under the notice.
 
-     any  police    officer   designated        for  that    purpose       by       the  Commissioner         of
+		            (b)  Every order made under paragraph (a) shall be in writing
 
-     Police.
+and signed by the Commissioner or an authorised officer.
 
-10.  Contents of notice
+(3)           A person on whom an order under subsection (2) has been
 
-     (1)                                                          Subject to subsection (2) -
+served shall –
 
-              (a)       the  notice     specified    in  section    8  shall    state    that    the  person  to
+              (a)  comply with the order;
 
-                        whom      the   notice  is   addressed      has    a  right      of  appeal   conferred
+              (b)  attend before the Commissioner in accordance with the
 
-                        under section 58; and
+                   terms of the order or on such other days as he may be
 
-              (b)       the delay granted for compliance shall not be less than 21 days.
+                   directed to attend; and
 
-     (2)      Where a notice of appeal against a decision made under section 8, is
+              (c)  answer    questions        and    furnish  all  information,
 
-              lodged    with  the      Commissioner,     the    information         required     need   not   be
+                   documents, records or statements, including certified
 
-              furnished, pending the determination or withdrawal of the appeal.
+                   copies thereof, as ordered.
 
-     (3)      Where     the   Commissioner           considers      that   the    information    is     required
+(4)           (a)  The Commissioner may take copies or extracts from
 
-              urgently for the proper performance of his functions and exercise of his
+any document produced under subsection (2) and may require the person
 
-              powers    under     this  Act,    the  Commissioner          may      apply    to  the  Judge   in
+producing it to give any necessary explanation relating to such document.
 
-              Chambers for communication of the information.
+		            (b)  Where   material       to  which  an  investigation       relates
 
-     (4)      Any person, who without reasonable excuse, fails or refuses to comply
+consists  of  information  stored  in  a  computer,  disc     or  cassette,  or  on
 
-              with   a  requirement      specified       in  a    notice,     or    who      furnishes  to    the
+microfilm, or preserved by any mechanical or electronic device, the request
 
-              Commissioner an information which he knows to be false or misleading in
+from the Commissioner may require the person named therein to produce
 
-              a material particular, shall commit an offence, and shall on conviction, be
+or give access to it in a form in which it can be taken away and in which it
 
-              liable to a fine not exceeding 50,000 rupees and to imprisonment for a
+is visible and legible.
 
-              term not exceeding 2 years.
+(5)           Any person who, without lawful or reasonable excuse, fails
 
-11.  Complaints
+to attend a hearing or to produce a document or other material when
 
-     Where a complaint is made to the Commissioner that this Act or any regulations
+required to do so under subsection (4) shall commit an offence and shall,
 
-     made     under     it,  has  been,  is     being    or     is  about       to  be       contravened,     the
+on conviction, be liable to a fine not exceeding 50, 000 rupees and to
 
-     Commissioner shall -
-                    (a)     investigate the complaint or cause it to be investigated by
+imprisonment for a term not exceeding 2 years.
 
-                    an   authorised   officer,     unless     he   is  of  the  opinion   that    such
+(6)           Subject to this section, the Commissioner shall regulate the
 
-                    complaint is frivolous or vexatious; and
+handling of complaints, investigations and conduct of hearings in such
 
-                    (b)     as soon as reasonably practicable, notify the complainant
+manner as he may determine.
+480                          Acts 2017
 
-                    in writing of his decision in relation to the complaint and that the
+     (7)  No person shall be required under this section to answer any
 
-                    complainant      may,  if   he     is  aggrieved       by  the  Commissioner's
+question or to give any evidence tending to incriminate him.
 
-                    decision, appeal to the        Tribunal.
+7.   Power to require information
 
-12.  Enforcement of notice
+     (1)  Subject to section 26 of the Bank of Mauritius Act, section 64
 
-     (1)       Where the Commissioner is of opinion that a data controller or a
+of the Banking Act, section 83 of the Financial Services Act, section 30 of
 
-     data processor has contravened, is contravening or is about to contravene
+the Financial Intelligence and Anti-Money Laundering Act and section 81
 
-     this Act, the Commissioner may serve an enforcement notice on the data
+of the Prevention of Corruption Act –
 
-     controller or the data processor, as the case may be, requiring him to take
+          (a)     the Commissioner may, by written notice served on a
 
-     such steps within such time as may be specified in the notice.
+                  person, request from that person such information as is
 
-     (2)       Notwithstanding subsection (1), where the Commissioner is of the
+                  necessary or expedient for the discharge of his functions
 
-     opinion that a person has committed an offence under this Act, he may
+                  and the exercise of his powers under this Act; and
 
-     investigate    the  matter  or  cause     it  to  be     investigated      by  an    authorised
+          (b)     where the information requested by the Commissioner
 
-     officer.
+                  is stored in a computer, disc or cassette, or on microfilm,
 
-     (3)       An enforcement notice shall -
+                  or preserved by any mechanical or electronic device,
 
-               (a)  specify any provision of        this   Act  which  has     been,  is  being   or    is
+                  the person named in the notice shall produce or give
 
-                    likely to be contravened;
+                  access to the information in a form in which it can be
 
-               (b)  specify the measures that shall be taken to remedy or eliminate
+                  taken away and in which it is visible and legible.
 
-                    the  matter,  as  the   case    may       be,  which   makes      it  likely  that  a
+     (2)  Any person who, without reasonable excuse, fails or refuses
 
-                    contravention will arise;
+to comply with a requirement specified in a notice, or who furnishes to the
 
-               (c)  specify a time limit which shall not be less than                 21  days    within
+Commissioner any information which he knows to be false or misleading
 
-                    which those measures shall be implemented; and
+in a material particular, shall commit an offence and shall, on conviction,
 
-               (d)  state the right of appeal conferred under section 58.
-     (4)  In complying with an enforcement notice served under subsection
+be liable to a fine not exceeding 50, 000 rupees and to imprisonment for a
 
-     (1), a data controller or a data processor, as the case may be, shall as soon
+term not exceeding 2 years.
 
-     as   practicable  and     in  any      event      not    later     than  21   days       after   such
+8.   Preservation Order
 
-     compliance, notify -
+     (1)  The Commissioner may apply to a Judge in Chambers for
 
-          (a)     the data subject concerned; and
+a Preservation Order for the expeditious preservation of data, including
 
-          (b)     where such compliance materially modifies the data concerned,
+traffic data, where he has reasonable ground to believe that the data are
 
-                  any      person      to  whom     the    data  was    disclosed     during  the    period
+vulnerable to loss or modification.
 
-                  beginning        12      months      before    the    date  of  the    service     of    the
+     (2)  Where the Judge is satisfied that a Preservation Order may be
 
-                  enforcement              notice     and    ending     immediately       before         such
+made under subsection (1), he shall issue the Preservation Order specifying
 
-                  compliance,
+a period which shall not be more than 90 days during which the order shall
 
-          of any amendment.
+remain in force.
+                        Acts 2017                                                481
 
-     (5)  Where the Commissioner considers that any provision of the enforcement
+    (3)  The Judge may, on application made by the Commissioner,
 
-          notice  need     not     be  complied        with  to  ensure  compliance       with   the     data
+extend the period specified in subsection (2) for such period as he thinks fit.
 
-          protection principles to which the notice relates, he may vary the notice
+9.  Enforcement notice
 
-          and, where he does so, he shall notify in writing the person on whom the
+    (1)  Where the Commissioner is of the opinion that a controller or
 
-          notice was served.
+a processor has contravened, is contravening or is about to contravene this
 
-     (6)  Any person who, without reasonable excuse, fails or refuses to comply
+Act, the Commissioner may serve an enforcement notice on him requiring
 
-          with   an    enforcement          notice    shall  commit     an    offence,   and     shall,    on
+him to take such steps within such period as may be specified in the notice.
 
-          conviction,      be   liable      to  fine   not   exceeding        50,000     rupees    and     to
+    (2)  Notwithstanding subsection (1), where the Commissioner is of
 
-          imprisonment for a term not exceeding 2 years.
+the opinion that a person has committed an offence under this Act, he may
 
-13.  Preservation Order
+investigate the matter or cause it to be investigated by an authorised officer.
 
-     (1)  The Commissioner may apply to a Judge in Chambers for an order for the
+    (3)  An enforcement notice served under subsection (1) shall –
 
-          expeditious      preservation         of  data,    including   traffic  data,  where     he    has
+         (a)       specify the provision of this Act which has been, is
 
-          reasonable       grounds      to  believe    that    such   data    is  vulnerable  to     loss  or
+                   being or is likely to be, contravened;
 
-          modification.
+         (b)       specify the measures that shall be taken to remedy or
 
-     (2)  Where the Judge in Chambers is satisfied that an order may be made
+                   eliminate the situation which makes it likely that a
 
-          under   subsection       (1),    he   shall  issue     a  preservation   order  specifying       a
+                   contravention will arise;
 
-          period which shall not be more than 90 days during which the order shall
+         (c)       specify a period which shall not be less than 21 days
 
-          remain in force.
-     (3)  The Judge in Chambers may, on application made by the Commissioner,
+                   within which those measures shall be implemented; and
 
-          extend the period specified in subsection (2) for such time as the Judge
+         (d)       state that a right of appeal is available under section 51.
 
-          thinks fit.
+    (4)  On complying with an enforcement notice, the controller
 
-14.  Power to carry out prior security checks
+or processor, as the case may be, shall, not later than 21 days after
 
-     (1)  Where the Commissioner is of the opinion that the processing or transfer
+compliance, notify –
 
-          of data by a data controller or data processor entails specific risks to the
+         (a)       the data subject concerned; and
 
-          privacy rights of data subjects, he may inspect and assess the security
+         (b)       where such compliance materially modifies the data
 
-          measures taken under section 27 prior to the beginning of the processing
+                   concerned, any person to whom the data was disclosed
 
-          or transfer.
+                   during the period beginning 12 months before the date
 
-     (2)  The Commissioner may, at any reasonable time during working hours,
+                   of the service of the notice and ending immediately
 
-          carry   out   further  inspection   and  assessment     of  the  security  measures
+                   before compliance,
 
-          imposed on a data controller or data processor under section 27.
+of any amendment.
 
-     Amended by [Act No. 14 of 2009]
+    (5)  Where the Commissioner considers that any provision of the
 
-15.  Compliance audit
+enforcement notice may not be complied with to ensure compliance with
 
-     The  Commissioner      may  carry   out  periodical  audits  of  the   systems   of  data
+this Act, he may vary the notice and, where he does so, he shall give written
 
-     controllers  or  data  processors   to   ensure     compliance   with  data     protection
+notice to the person on whom the notice was served.
+482                             Acts 2017
 
-     principles specified in the First Schedule.
+     (6)  Any person who, without reasonable excuse, fails or refuses
 
-     Amended by [Act No. 14 of 2009]
+to comply with an enforcement notice shall commit an offence and shall,
 
-16.  Powers to request assistance
+on conviction, be liable to a fine not exceeding 50, 000 rupees and to
 
-     (1)                           For the purposes of gathering information or for the
+imprisonment for a term not exceeding 2 years.
 
-          proper conduct of any investigation concerning compliance with this Act,
+10.  Power to seek assistance
 
-          the     Commissioner   may     seek      the   assistance   of   such  persons  or
+     (1)  For the purpose of gathering information or for the proper
 
-          authorities,  as  he   thinks  fit  and  that  person   or  authority  may  do  such
+conduct of any investigation under this Act, the Commissioner may seek
 
-          things as are reasonably necessary to assist the Commissioner in the
+the assistance of such person or authority as he thinks fit and that person
 
-          performance of the Commissioner’s functions.
-     (2)                               Any person assisting the Commissioner pursuant to
+or authority may do such things as are reasonably necessary to assist the
 
-          subsection (1), shall for the purposes of section 6 be deemed to an officer
+Commissioner in the discharge of his functions.
 
-          of the office.
+     (2)  Any        person  assisting    the  Commissioner  pursuant         to
 
-17.  Powers of entry and search
+subsection (1) shall, for the purpose of section 49, be considered to be an
 
-               (1)   Subject   to  this     section,  an      authorised      officer  may    enter    and
+authorised officer.
 
-                     search any premises for the purpose of discharging any functions
+          Sub-Part C – Powers of Authorised Officers
 
-                     or exercising any powers under this Act.
+11.  Power of entry and search
 
-               (2)   No authorised officer shall enter or search any premises unless
+     (1)  Subject    to  this   section,  an   authorised  officer  may  enter
 
-                     he     shows  to   the  owner        or  occupier     a  warrant       issued    by  a
+and search any premises for the purpose of discharging any function or
 
-                     Magistrate for the purpose referred to in subsection (1).
+exercising any power under this Act.
 
-               (2A)  A Magistrate may, on being satisfied on an information upon oath
+     (2)  No authorised officer shall enter or search any premises unless
 
-                     that entry and search into any premises are necessary to enable
+he shows to the owner or occupier a warrant issued by a Magistrate for the
 
-                     the    authorised      officer   to  discharge     any   of       his  functions     or
+purpose referred to in subsection (1).
 
-                     exercise   any     of   his  powers      under    this   Act,     issue  a  warrant
+     (3)  A Magistrate may, on being satisfied on an information upon
 
-                     authorising   the      authorised        officer  to  enter       and    search   the
+oath that entry and search into any premises are necessary to enable the
 
-                     premises.
+authorised officer to discharge any of his functions or exercise any of his
 
-               (2B)  A warrant     issued    under    subsection (2A) shall be valid for the
+powers under this Act, issue a warrant authorising the authorised officer to
 
-                     period stated in the warrant and may be subject to any condition
+enter and search the premises.
 
-                     which the Magistrate may specify.
+     (4)  A warrant issued under subsection (3) shall be valid for the
 
-          Amended by [Act No. 1 of 2009]
+period stated in the warrant and may be subject to such condition as the
 
-     (3)  Subject to section 26 of the Bank of Mauritius Act, section 64 of the
+Magistrate may specify.
+                                  Acts 2017                                   483
 
-     Banking Act, section 83 of the Financial Services Act and section 30 of the
+     (5)      Subject to section 26 of the Bank of Mauritius Act, section 64
 
-     Financial Intelligence and Anti-Money Laundering Act, an authorised officer
+of the Banking Act, section 83 of the Financial Services Act, section 30 of
 
-     may, on entering any premises –
+the Financial Intelligence and Anti-Money Laundering Act and section 81
 
-          (a)        request the owner or occupier to produce any document, record or
+of the Prevention of Corruption Act, an authorised officer may, on entering
 
-                     data;
+any premises –
 
-          (b)        examine any such document, record or data and take copies or
+              (a)  request the owner or occupier to produce any document,
 
-                     extracts from them;
-               (c)  request      the  owner  of  the  premises  entered    into,  or  any  person
+                   record or data;
 
-                    employed by him, or any other person on the premises, to give to
+              (b)  examine any such document, record or data and take
 
-                    the authorised officer all reasonable assistance and to answer all
+                   copies or extracts from them;
 
-                    reasonable questions either orally or in writing.
+              (c)  request the owner of the premises entered into, any
 
-                    Amended by [Act No. 1 of 2009]; [Act No. 14 of 2009]
+                   person employed by him, or any other person on the
 
-     (4)       Where the information requested by the authorised officer pursuant
+                   premises, to give to the authorised officer all reasonable
 
-     to subsection (3) is stored in a computer, disc, cassette, or on microfilm, or
+                   assistance     and  to   answer  all    reasonable  questions,
 
-     preserved by any mechanical or electronic device, the person to whom the
+                   orally or in writing.
 
-     request is made shall be deemed to be required             to produce or give access
+     (6)      Where any information requested by the authorised officer is
 
-     to it in a form in which it can be taken away and in which it is visible and
+stored in a computer, disc or cassette, or on microfilm, or preserved by any
 
-     legible.
+mechanical or electronic device, the person to whom the request is made
 
-     (5)       For the purpose of carrying out his duties under this section, the
+shall be deemed to be required to produce or give access to it in a form in
 
-     authorised     officer      may  be     accompanied        by  such   person          as  the
+which it can be taken away and in which it is visible and legible.
 
-     Commissioner thinks fit.
+     (7)      For  the   purpose  of   discharging    his  functions   under  this
 
-     Amended by [Act No. 1 of 2009]; [Act No. 14 of 2009]
+section, the authorised officer may be accompanied by such person as the
 
-18.  Repealed by [Act No. 1 of 2009]
+Commissioner may determine.
 
-19.  Obstruction of authorised officer
+12.  Obstruction of Commissioner or authorised officer
 
-     Any person who, in relation to the exercise of powers conferred by section 17 –
+     Any person who, in relation to the exercise of a power conferred by
 
-     (a)            obstructs or impedes an authorised officer in the exercise of any
+section 11 –
 
-               of his powers;
+     (a)      obstructs  or  impedes   the  Commissioner   or  an      authorised
 
-     (b)            fails    to  provide  assistance  or  information      requested       by  the
+              officer in the exercise of such power;
 
-               authorised officer;
+     (b)      fails to provide assistance or information requested by the
 
-     (c)            refuses to allow an authorised officer to enter any premises or to
+              Commissioner or authorised officer;
 
-               take any person with him in the exercise of his functions;
+     (c)      refuses to allow the Commissioner or an authorised officer
 
-     (d)            gives to an authorised officer any information which is false and
+              to enter any premises or to take any person with him in the
 
-               misleading in a material particular,
+              exercise of his functions;
+484                                Acts 2017
 
-     shall commit an offence and shall, on conviction, be liable to a fine not exceeding
+     (d)  gives  to    the  Commissioner      or  an    authorised  officer    any
 
-     50,000 rupees and to a term of imprisonment not exceeding 2 years.
-                 Amended by [Act No. 1 of 2009]
+          information       which  is  false  or  misleading   in   a  material
 
-20.  Referral to police
+          particular,
 
-     On completion of an investigation under this Act, the Commissioner shall, where
+shall commit an offence and shall, on conviction, be liable to a fine not
 
-     the investigation reveals that an offence has been committed under this Act or
+exceeding 50, 000 rupees and to imprisonment for a term not exceeding
 
-     any regulations made under the Act, refer the matter to the Police.
+2 years.
 
-21.  Repealed by [Act No. 1 of 2009]
+                 Sub-Part D – Delegation of Power
 
-               PART IV – OBLIGATION ON DATA CONTROLLERS
+13.  Delegation of power by Commissioner
 
-22.  Collection of personal data
+     The Commissioner may delegate any investigating or enforcement
 
-     (1)  Subject to Part VII, a data controller shall not collect personal data unless
+power conferred on him by this Act to an officer of the Office or to a police
 
-          -
+officer designated for that purpose by the Commissioner of Police.
 
-          (a)    it is collected for a lawful purpose           connected      with  a   function  or
+                 PART III – REGISTRATION OF
 
-                 activity of the data controller; and
+               CONTROLLERS AND PROCESSORS
 
-          (b)    the collection of the data is necessary for that purpose.
+14.  Controller and Processor
 
-     (2)  Where  a       data  controller    collects  personal  data     directly   from      a  data
+     Subject to section 44, no person shall act as controller or processor
 
-          subject, the data controller shall at the time of collecting personal data
+unless he or it is registered with the Commissioner.
 
-          ensure that the data subject concerned is informed of -
+15.  Application for registration
 
-          (a)    the fact that the data is being collected;
+     (1)  Every person who intends to act as a controller or processor
 
-          (b)    the purpose or purposes for which the data is being collected;
+shall apply to the Commissioner, in such form as the Commissioner may
 
-          (c)    the intended recipients of the data;
+approve, to be registered as controller or processor.
 
-          (d)    the name and address of the data controller;
+     (2)  Every application under subsection (1) shall be accompanied
 
-          (e)    whether       or  not  the  supply    of  the  data  by  that     data  subject   is
+by the following particulars regarding the applicant –
 
-                 voluntary or mandatory;
+          (a)    name and address;
 
-          (f)    the consequences for that data            subject    if  all  or  any   part  of  the
+          (b)    if he or it has nominated a representative for the purposes
 
-                 requested data is not provided;
-     (g)  whether or not the data collected shall be processed and whether
+                 of this Act, the name and address of the representative;
 
-          or not the consent of the data subject shall be required for such
+          (c)    a description of the personal data to be processed by
 
-          processing; and
+                 the controller or processor, and of the category of data
 
-     (h)  his    right  of     access  to,      the     possibility  of       correction   of   and
+                 subjects, to which the personal data relate;
 
-          destruction of, the personal data to be provided.
+          (d)    a statement as to whether or not he or it holds, or is
 
-(3)  A    data   controller    shall   not          be    required        to   comply      with
+                 likely to hold, special categories of personal data;
+                                 Acts 2017                                  485
 
-     subsection (2) –
+          (e)       a description of the purpose for which the personal data
 
-     (a)  in respect of a data subject where –
+                    are to be processed;
 
-                 (i)           compliance       with     subsection       (2)  in  respect      of  a
+          (f)       a description of any recipient to whom the controller
 
-                 second or subsequent collection will be to repeat, without
+                    intends or may wish to disclose the personal data;
 
-                 any material difference, what was done to comply with that
+          (g)       the name, or a description of, any country to which the
 
-                 subsection in respect of the first collection; and
+                    proposed controller intends or may wish, directly or
 
-                 (ii)          not  more    than     12   months     have      elapsed    between
+                    indirectly, to transfer the data; and
 
-                 the        first   collection      and    this   second       or      subsequent
+          (h)       a general description of the risks, safeguards, security
 
-                 collection.
+                    measures and mechanisms to ensure the protection of
 
-     (b)  where –
+                    the personal data.
 
-                 (i)           compliance       is   not   reasonably         practicable   at     the
+     (3)  Any controller or processor who knowingly supplies any
 
-                 time of collection, provided that the data controller makes
+information under subsection (1) which is false or misleading in a material
 
-                 available         to  the  data    subject  all     the  relevant     information
+particular shall commit an offence and shall, on conviction, be liable to
 
-                 specified in subsection (2) as soon as practicable; or
+a fine not exceeding 100, 000 rupees and to imprisonment for a term not
 
-                 (ii)          the data is used in a form in which the data subject
+exceeding 5 years.
 
-                 concerned          cannot      or  could  not    reasonably       expect      to   be
+16.  Issue of registration certificate
 
-                 identified.
+     (1)  Where the Commissioner considers that an applicant meets
 
-(4)  Where data is not collected directly from the data subject concerned, the
+the criteria to be registered as a controller or processor, as the case may be,
 
-     data controller or any person acting on his behalf shall ensure that the
+he shall grant the application.
 
-     data subject is informed of the matters specified in subsection (2).
+     (2)  Where the Commissioner grants an application for registration
 
-(5)  Subsection  (3)    shall  not     operate  to      prevent  a   second        or  subsequent
+as a controller or processor, he shall, on such terms and conditions as he
 
-     collection from becoming a first collection where the data controller has
-          complied     with  subsection   (2)   in   respect  of  the  second     or  subsequent
+may determine, register the applicant as a controller or processor, as the
 
-          collection.
+case may be, and issue the applicant, on payment of such fee as may be
 
-23.  Accuracy of personal data
+prescribed, with a registration certificate in such form and manner as the
 
-     A data controller shall take  all    reasonable  steps   to  ensure    that  personal    data
+Commissioner may determine.
 
-     within his possession is -
+     (3)  A registration certificate issued under subsection (2) shall be
 
-               (a)           accurate; and
+valid for a period of 3 years.
 
-               (b)           kept up to date where such data requires regular updating.
+17.  Change in particulars
 
-24.  Processing of personal data
+     (1)  Where,    following    the    grant  of  an  application,  there  is   a
 
-     (1)  No   personal      data  shall  be    processed,    unless   the  data  controller  has
+change in any of the particulars referred to in section 15(2), the controller
 
-          obtained the express consent of the data subject.
+or processor, shall, within 14 days of the date of the change, notify the
 
-     (2)  Notwithstanding subsection (1), personal data may be processed without
+Commissioner in writing of the nature and date of the change.
+486                                     Acts 2017
 
-          obtaining the express consent of the data subject where the processing is
+     (2)      On   receipt     of    a   notification  under    subsection  (1),  the
 
-          necessary -
+Commissioner, on being satisfied that there is a change in particulars, shall
 
-          (a)  for the performance of a contract to which the data subject is a
+amend the appropriate entry in the register.
 
-               party;
+     (3)      Any  controller        or  processor     who  fails  to  comply     with
 
-          (b)  in order to take steps required by the data subject prior to entering
+subsection (1) shall commit an offence and shall, on conviction, be liable
 
-               into a contract;
+to a fine not exceeding 50, 000 rupees.
 
-          (c)  in order to protect the vital interests of the data subject;
+18.  Renewal of registration certificate
 
-          (d)  for     compliance         with  any  legal    obligation    to  which  the    data
+     (1)      The holder of a registration certificate may apply for the renewal
 
-               controller is subject;
+of the certificate not later than 3 months before the date of its expiry.
 
-          (e)  for the administration of justice; or
+     (2)      Where       the  Commissioner         grants  an     application  under
 
-          (f)  in the public interest.
-25.  Processing of sensitive personal data
+subsection (1), he shall, on such terms and conditions as he may determine
 
-     (1)  No  sensitive  personal        data  shall  be     processed     unless       the  data
+and on payment of such fee as may be prescribed, issue a new registration
 
-     subject has –
+certificate.
 
-                    (a)                               given his express consent to the
+19.  Cancellation or variation of terms and conditions of registration
 
-                    processing of the personal data; or
+     certificate
 
-                    (b)                               made the data public.
+     (1)      Subject     to   this  section,  the  Commissioner       may  cancel  a
 
-     (2)  Subsection (1) shall not apply where the processing –
+registration certificate or vary its terms and conditions where –
 
-                    (a)  is necessary –
+              (a)    any information given to him by the applicant is false
 
-                         (i)    for  the    purposes     of  exercising    or  performing    any
+                     or misleading in any material particular;
 
-                         right or obligation which is conferred or imposed by law on
+              (b)    the holder of the registration certificate fails, without
 
-                         the data controller in connection with his employment;
+                     lawful excuse, to comply with –
 
-                         (ii)   in   order     to  protect   the  vital  interests  of  the  data
+                     (i)       any requirement of this Act; or
 
-                         subject or another person in a case where consent cannot
+                     (ii)      any term or condition specified in the certificate.
 
-                         be given by or on behalf of the data subject, or the data
+     (2)      The Commissioner shall, before cancelling or varying the
 
-                         controller  cannot        reasonably     be  expected  to  obtain   the
+terms and conditions of a registration certificate, require, by notice in
 
-                         consent of the data subject;
+writing, the holder of the certificate to show cause, within 14 days of the
 
-                         (iii)  in   order     to  protect   the  vital  interests  of  another
+notice, why the registration certificate should not be cancelled or its terms
 
-                         person, in a case where consent by or on behalf of the
+and conditions should not be varied.
+                     Acts 2017                                            487
 
-                         data subject has been unreasonably withheld;
+20.  Register of controllers and processors
 
-                         (iv)   for the performance of a contract to which the data
+     (1)  There shall be a register of controllers and processors to be
 
-                         subject is a party;
+known as the Data Protection Register, which shall be kept and maintained
 
-                         (v)    in order to take steps required by the data subject
+by the Commissioner in such form and manner as he may determine.
 
-                         prior to entering into a contract;
+     (2)  The Commissioner may, at any time, at the request of a
 
-                         (vi)   for compliance with a legal obligation to which the
+controller or processor, in respect of which there is an entry in the register
 
-                         data controller is subject;
+and which has ceased to exist, remove its details from the register.
 
-                    (b)  is     carried  out   by  any   entity   or  any  association       which
+     (3)  (a)  The register shall, at all reasonable times, be available
 
-                    exists for political, philosophical, religious or trade union purposes
+for inspection by any person free of charge.
 
-                    in the course of its legitimate activities and the processing -
-               (i)         is   carried  out   with  the  appropriate  safeguards  specified
+          (b)  Any person may, on payment of such fee as may be
 
-                           under sections 22, 23, 26 and 27;
+prescribed, obtain from the Commissioner a certified copy of, or of an
 
-               (ii)        is   related  only  to    individuals  who  are   members       of  the
+extract from, any entry in the register.
 
-                           charitable entity or association, and
+PART IV – OBLIGATIONS ON CONTROLLERS AND PROCESSORS
 
-               (iii)       does not involve disclosure of the personal data to a third
+21.  Principles relating to processing of personal data
 
-                           party without the consent of the date subject;
+     Every controller or processor shall ensure that personal data are –
 
-               (c)             is in respect of the information contained in the personal
+     (a)  processed lawfully, fairly and in a transparent manner in
 
-               data made public as a result of steps deliberately taken by the
+          relation to any data subject;
 
-               data subject;
+     (b)  collected for explicit, specified and legitimate purposes and
 
-               (d)             is required by law.
+          not further processed in a manner incompatible with those
 
-26.  Use of personal data
+          purposes;
 
-     The data controller shall ensure that personal data is -
+     (c)  adequate, relevant and limited to what is necessary in relation
 
-          (a)  kept only for one or more specified and lawful purposes for which
+          to the purposes for which they are processed;
 
-               such data has been collected and processed;
+     (d)  accurate and, where necessary, kept up to date, with every
 
-               (b)         not used or disclosed in any manner incompatible with the
+          reasonable step being taken to ensure that any inaccurate
 
-               purposes for which such data has been collected and processed;
+          personal data are erased or rectified without delay;
 
-               (c)         adequate,     relevant    and  not     excessive  in  relation  to  the
+     (e)  kept in a form which permits identification of data subjects
 
-               purposes for which such data has been collected and processed;
+          for no longer than is necessary for the purposes for which the
 
-               and
+          personal data are processed; and
 
-               (d)         not kept for longer than is necessary for the purposes for
+     (f)  processed in accordance with the rights of data subjects.
+488                               Acts 2017
 
-               which such data has been collected and processed.
+22.  Duties of controller
 
-27.  Security of personal data
+     (1)       Every  controller    shall     adopt     policies  and    implement
 
-     (1)  A data controller shall –
-     (a) take     appropriate       security   and    organisational     measures     for  the
+appropriate technical and organisational measures so as to ensure and be
 
-              prevention of unauthorised access to, alteration of, disclosure of,
+able to demonstrate that the processing of personal data is performed in
 
-              accidental loss, and destruction of the data in his control; and
+accordance with this Act.
 
-     (b)      ensure that the measures provide a level of security appropriate to
+     (2)       The measures referred to in subsection (1) shall include –
 
-              –
+               (a)    implementing         appropriate    data      security        and
 
-               (i)                  the harm that might result from the unauthorised
+                      organisational measures in accordance with section 31;
 
-                          access to, alteration of, disclosure of, destruction of the
+               (b)    keeping  a  record    of   all    processing  operations      in
 
-                          data and its accidental loss; and
+                      accordance with section 33;
 
-               (ii)                 the nature of the data concerned.
+               (c)    performing  a  data     protection  impact    assessment      in
 
-     (2)      A data controller or a data processor shall take                 all reasonable
+                      accordance with section 34;
 
-     steps    to  ensure      that  any  person     employed     by   him  is  aware  of   and
+               (d)    complying with the requirements for prior authorisation
 
-     complies with the relevant security measures.
+                      from, or consultation with the Commissioner pursuant
 
-     (3)      Where a data controller is using the services of a data processor,
+                      to section 35; and
 
-     he   shall   choose      a  data    processor    providing  sufficient    guarantees  in
+               (e)    designating an officer responsible for data protection
 
-     respect      of  security   and     organisational    measures   for   the  purposes  of
+                      compliance issues.
 
-     complying with subsection (1).
+     (3)       Every  controller     shall    implement   such      policies        and
 
-     (4)      Where the data controller is using the services of a data processor
+mechanisms as may be required to ensure verification of the effectiveness
 
-     under    subsection      (3)   the  data  controller  and   the  data     processor   shall
+of the measures referred to in this section.
 
-     enter into a written contract which shall provide that -
+23.  Collection of personal data
 
-     (a)  the data processor shall         act  only  on   instructions    received  from  the
+     (1)       Subject to section 44, a controller shall not collect personal
 
-              data controller; and
+data unless –
 
-     (b) the data processor shall be bound by obligations devolving on the
+               (a)    it is done for a lawful purpose connected with a function
 
-              data controller under subsection (1).
+                      or activity of the controller; and
 
-(5)  Without prejudice to subsection (1), in determining the appropriate
+               (b)    the collection of the data is necessary for that purpose.
 
-security  measures,       in  particular,      where     the  processing       involves    the
+     (2)       Subject to subsection (3), where a controller collects personal
 
-transmission  of    data  over      an  information   and     communication      network,  a
+data directly from a data subject, the controller shall, at the time of collecting
 
-data controller shall have regard to –
+the personal data, ensure that the data subject concerned is informed of –
 
-     (a) the state of technological development available;
-          (b) the cost of implementing any of the security measures;
+               (a)    the identity and contact details of the controller and,
 
-          (c) the special risks that exist in the processing of the data; and
+                      where    applicable,  its  representative     and  any  data
 
-          (d) the nature of the data being processed.
+                      protection officer;
+                            Acts 2017                                  489
 
-28.  Duty to destroy personal data
+         (b)  the purpose for which the data are being collected;
 
-     (1)  Where the purpose for keeping personal data has lapsed, the data
+         (c)  the intended recipients of the data;
 
-     controller shall –
+         (d)  whether or not the supply of the data by that data
 
-               (a)         destroy  such   data   as  soon  as  reasonably     practicable;
+              subject is voluntary or mandatory;
 
-               and
+         (e)  the existence of the right to withdraw consent at any
 
-               (b)         notify any data processor holding such data.
+              time, without affecting the lawfulness of processing
 
-     (2)  Any data processor who receives a notification under subsection (1)
+              based on consent before its withdrawal;
 
-     (b) shall, as soon as reasonably practicable, destroy the data specified by
+         (f)  the existence of the right to request from the controller
 
-     the data controller.
+              access to and rectification, restriction or erasure of
 
-29.  Unlawful disclosure of personal data
+              personal data concerning the data subject or to object
 
-     (1)  Any data controller who, without lawful excuse, discloses personal
+              to the processing;
 
-     data in any manner that is incompatible with the purposes for which such
+         (g)  the existence of automated decision making, including
 
-     data has been collected shall commit an offence.
+              profiling, and information about the logic involved, as
 
-     (2)  Any data processor who, without lawful excuse, discloses personal
+              well as the significance and the envisaged consequences
 
-     data processed by him without the prior authority of the data controller on
+              of such processing for the data subject;
 
-     whose behalf such data is or has been processed shall commit an offence.
+         (h)  the period for which the personal data shall be stored;
 
-     (3)  Subject to subsection (4), any person who -
+         (i)  the right to lodge a complaint with the Commissioner;
 
-          (a)  obtains     access   to  personal  data,     or  obtains  any   information
+         (j)  where applicable, that the controller intends to transfer
 
-               constituting such data, without prior authority of the data controller
+              personal data to another country and on the level of
 
-               or data processor by whom such data is kept; and
+              suitable protection afforded by that country; and
 
-          (b)  discloses the data or information to another person,
+         (k)  any  further  information    necessary  to  guarantee    fair
 
-          shall commit an offence.
+              processing in respect of the data subject’s personal
 
-     (4)  Subsection (3) shall not apply to a person who is an employee                or
+              data, having regard to the specific circumstances in
 
-     agent of a data controller or processor and is acting within his mandate.
-     (5)      Any person who offers to sell personal data where such personal
+              which the data are collected.
 
-     data has been obtained in breach of subsection (1) shall commit an offence.
+(3)      A controller shall not be required to comply with subsection (2)
 
-     (6)      For the purposes of subsection (5), an advertisement indicating that
+where –
 
-     personal data is or may be for sale, constitutes an offer to sell the personal
+         (a)  the data subject already has the information referred to
 
-     data.
+              in subsections (1) and (2); or
 
-30.  Processing of personal data for direct marketing
+         (b)  the data are not collected from the data subject and –
 
-     (1)           A person may, at any time, by notice in writing, request a data
+              (i)  the      provision  of     such  information    proves
 
-controller –
+                   impossible or would involve a disproportionate
 
-              (a)  to stop; or
+                   effort; or
+490                               Acts 2017
 
-              (b)  not to begin,
+                   (ii)  the recording or disclosure of the data is laid
 
-              the processing of personal data in respect of which he is a data subject,
+                         down by law.
 
-              for the purposes of direct marketing.
+        (4)   Where data are not collected directly from the data subject
 
-     (2)      Where the data controller receives a request under subsection (1)(a), he
+concerned, the controller or any person acting on his or its behalf shall
 
-              shall, as soon as reasonably practicable and in any event not more than
+ensure  that  the  data  subject  is  informed  of  the  matters      specified  in
 
-              28 days after the request has been received –
+subsection (2).
 
-              (a)  where the data are   kept  only   for   purposes   of   direct   marketing,
+24.     Conditions for consent
 
-                   erase the data; and
+        (1)   The controller shall bear the burden of proof for establishing a
 
-              (b)  where the data are kept for direct marketing and        other purposes,
+data subject’s consent to the processing of his personal data for a specified
 
-                   stop processing the data for direct marketing.
+purpose.
 
-     (3)      Where the data controller receives a request under           subsection (1)
+        (2)   The data subject shall have the right to withdraw his consent
 
-     (b), he
+at any time.
 
-              (a)  shall,  where  the   data  are    kept  only  for  the  purpose  of  direct
+        (3)   In determining whether consent was freely given, account
 
-                   marketing, as soon as reasonably practicable and in any event not
+shall be taken of whether, inter alia, the performance of a contract, including
 
-                   more than 28 days after the request has been received, erase the
+the provision of a service, is conditional on consent to the processing of
 
-                   data; or
-          (b)      shall not, where the data are kept for direct marketing and other
+personal data that is not necessary for the performance of that contract.
 
-                   purposes, process the data for direct marketing after the expiry of
+25.     Notification of personal data breach
 
-                   28 days.
+        (1)   (a)  In the case of a personal data breach, the controller
 
-     (4)  The data controller shall notify the data subject in writing of any action
+shall without undue delay and, where feasible, not later than 72 hours
 
-          taken under subsections (2) and (3) and, where appropriate, inform him of
+after having become aware of it, notify the personal data breach to the
 
-          the other purposes for which the personal data is being processed.
+Commissioner.
 
-     (5)  Where    a  data      controller  fails  to  comply  with  a      notice  under
+		            (b)  Where the controller fails to notify the personal data
 
-     subsection (1), the data subject may appeal to the Tribunal.
+breach within the time limit specified in paragraph (a), he shall provide the
 
-     (6)  Where a data controller fails to comply with an order of the Tribunal, he
+Commissioner with the reasons for the delay.
 
-          shall commit an offence.
+        (2)   Where a processor becomes aware of a personal data breach,
 
-31.  Transfer of personal data
+he shall notify the controller without any undue delay.
 
-     (1)           Subject to subsection (2), no data controller shall, except with the
+        (3)   The notification referred to in subsection (1) shall –
 
-          written  authorisation   of  the  Commissioner,  transfer  personal       data  to
+              (a)  describe the nature of the personal data breach, including
 
-          another country.
+                   where possible, the categories and approximate number
 
-     (2)           The Eighth data protection principle specified in the First Schedule
+                   of data subjects and the categories and approximate
 
-          shall not apply where –
+                   number of personal data records concerned;
+                            Acts 2017                                            491
 
-          (a)      the data subject has given his consent to the transfer;
+          (b)  communicate    the      name     and  contact       details  of     any
 
-          (b)      the transfer is necessary –
+               appropriate  data       protection    officer  or   other    contact
 
-                      (i)          for the performance of a contract between the data
+               point where more information may be obtained; and
 
-                      subject and the data controller, or for the taking of steps at
+          (c)  recommend    measures        to    address     the  personal      data
 
-                      the request of the data subject with a view to his entering
+               breach,  including,     where       appropriate,      measures      to
 
-                      into a contract with the data controller;
+               mitigate the possible adverse effects of the breach.
 
-                      (ii)         for the conclusion of a contract between the data
+     (4)  The controller shall specify the facts relating to the personal
 
-                      controller and a person, other than the data subject, which
+data breach, its effects and the remedial action taken so as to enable the
 
-                      is entered at the request of the data subject, or is in the
+Commissioner to verify compliance with this section.
 
-                      interest of the data subject, or for the performance of such
+26.  Communication of personal data breach to data subject
 
-                      a contract;
-                            (iii)    in the public interest, to safeguard public security or
+     (1)  Subject to subsection (3), where a personal data breach is
 
-                            national security.
+likely to result in a high risk to the rights and freedoms of a data subject, the
 
-           (c)       the transfer is made on such terms as may be approved by the
+controller shall, after the notification referred to in section 25, communicate
 
-                     Commissioner    as     ensuring     the  adequate     safeguards    for  the
+the personal data breach to the data subject without undue delay.
 
-                     protection of the rights of the data subject.
+     (2)  The  communication  to       the  data   subject    shall  describe      in
 
-                     (3)               For     the  purpose        of  subsection  (2)(c),    the
+clear language the nature of the personal data breach and set out the
 
-           adequacy of the level of protection of a country shall be assessed in the
+information and the recommendations provided for in section 25.
 
-           light of all the circumstances surrounding the data transfer, having regard
+     (3)  The communication of a personal data breach to the data
 
-           in particular to -
+subject shall not be required where –
 
-                     (a)        the nature of the data;
+          (a)  the controller has implemented appropriate technical
 
-                     (b)        the purpose and duration of the proposed processing;
+               and  organisational     protection     measures,       and    those
 
-                     (c)        the country of origin and country of final destination;
+               measures were applied to the personal data affected
 
-                     (d)        the rules of law, both general and sectoral, in force in the
+               by the breach, in particular, those that render the data
 
-                     country in question; and
+               unintelligible to any person who is not authorised to
 
-                     (e)        any relevant codes of conduct or other rules and security
+               access it, such as encryption;
 
-                     measures which are complied with in that country.
+          (b)  the controller has taken subsequent measures to ensure
 
-           Amended by [Act No. 14 of 2009]
+               that the high risk to the rights and freedoms of the data
 
-32.  Data  matching
+               subject referred to in subsection (1) is no longer likely
 
-     (1)   No data controller shall carry out a data matching procedure            unless –
+               to materialise; or
 
-           (a)  (i)         the data subject whose personal data is the subject to that
+          (c)  it  would    involve    disproportionate       effort        and    the
 
-                            procedure     has  given  his    consent   to  the  procedure   being
+               controller has made a public communication or similar
 
-                            carried out;
+               measure whereby data subject is informed in an equally
 
-                     (ii)   the Commissioner        has  consented     to  the  procedure   being
+               effective manner.
+492                              Acts 2017
 
-                            carried out; and
+     (4)  Where  the      controller  has    not  already  communicated         the
 
-                     (iii)  is  the  procedure      carried   out  in  accordance  with       such
+personal data breach to the data subject, the Commissioner may, after
 
-                            conditions as the Commissioner may impose; or
-          (b)       it is required or permitted under any other enactment.
+having considered the likelihood of the personal data breach resulting in a
 
-(2)       Subject to subsection (3), a data controller shall not take any adverse
+high risk, require it to do so.
 
-          action against any data subject as a consequence of the carrying out of a
+27.  Duty to destroy personal data
 
-          data matching procedure –
+     (1)  Where the purpose for keeping personal data has lapsed,
 
-          (a)       unless the data      controller   has  served    a   notice  in  writing  on  the
+every controller shall –
 
-                    data subject –
+          (a)    destroy the data as soon as is reasonably practicable; and
 
-                    (i)        specifying the adverse action it proposes to take and the
+          (b)    notify any processor holding the data.
 
-                               reasons therefor;
+     (2)  Any processor who receives a notification under subsection (1)(b)
 
-                    (ii)       stating that the data subject has 7 days after the receipt
+shall, as soon as is reasonably practicable, destroy the data specified by
 
-                               of  the  notice    to  show    cause     why  the     adverse  action
+the controller.
 
-                               should not be taken; and
+28.  Lawful processing
 
-          (b)       until the expiry of the 7 days specified in paragraph (a).
+     (1)  No person shall process personal data unless –
 
-(3)       Subsection      (2)  shall    not  preclude   a   data    controller   from   taking    any
+          (a)    the data subject consents to the processing for one or
 
-          adverse   action     against       any  data     subject   if  compliance        with   the
+                 more specified purposes;
 
-          requirements of that subsection shall prejudice any investigation into the
+          (b)    the processing is necessary –
 
-          commission of any offence which has been, is being or is likely, to be
+                 (i)      for the performance of a contract to which the
 
-          committed.
+                          data subject is a party or in order to take steps
 
-               PART V - THE DATA PROTECTION REGISTER
+                          at the request of the data subject before entering
 
-     33.       Register of data controllers and data processors
+                          into a contract;
 
-               (1)  There shall be a register of data controllers and data processors
+                 (ii)     for    compliance  with  any     legal  obligation    to
 
-                    to be known as the Data Protection Register, which shall be kept
+                          which the controller is subject;
 
-                    and maintained by the Commissioner.
+                 (iii)    in order to protect the vital interests of the data
 
-               (2)  Subject    to  Part  VII,   every   data  controller     and  data     processor
+                          subject or another person;
 
-                    shall,  before    keeping     or  processing    personal     data  or  sensitive
+                 (iv)     for    the  performance  of  a   task   carried  out  in
 
-                    personal data, register himself with the Commissioner.
-                    Amended by [Act No.1 of 2009]
+                          the public interest or in the exercise of official
 
-34.  Application for registration
+                          authority vested in the controller;
 
-     (1)       Every data controller and data processor shall –
+                 (v)      the performance of any task carried out by a
 
-               (a)   apply for registration in writing to the Commissioner; and
+                          public authority;
+                               Acts 2017                                           493
 
-               (b)   together with the application, provide the particulars specified, in
+               (vi)    the exercise, by any person in the public interest,
 
-                     the case of a data controller, in section 35 and, in the case of a
+                       of any other functions of a public nature;
 
-                     data processor, in section 35A.
+               (vii)   for   the   legitimate       interests  pursued         by  the
 
-          (2)                Where any data controller or data processor intends to keep or
+                       controller   or  by       a  third  party      to  whom     the
 
-                    process    personal     data  or  sensitive  personal         data  for  2   or  more
+                       data  are    disclosed,       except    if   the   processing
 
-                    purposes,    he  shall  make      an  application  for  separate     registration    in
+                       is   unwarranted      in     any   particular     case  having
 
-                    respect  of  any  of    those     purposes   and,  entries    shall      be  made    in
+                       regard to the harm and prejudice to the rights
 
-                    accordance with any such applications.
+                       and freedoms or legitimate interests of the data
 
-     (3)            Subject to subsection (4), the Commissioner shall grant an application
+                       subject; or
 
-                    for registration, unless he reasonably believes that –
+               (viii)  for   the   purpose       of  historical,      statistical  or
 
-               (a)   the particulars proposed for inclusion in an entry in the register are
+                       scientific research.
 
-                     insufficient or any other information required by the Commissioner
+     (2)  Any person who contravenes subsection (1) shall commit an
 
-                     either has not been furnished, or is insufficient;
+offence and shall, on conviction, be liable to a fine not exceeding 100, 000
 
-               (b)   appropriate safeguards for the protection of the privacy of the data
+rupees and to imprisonment for a term not exceeding 5 years.
 
-                     subjects        concerned     are    not  being,  or   will  not   continue     to  be,
+29.  Special categories of personal data
 
-                     provided by the data controller; or
+     (1)  Special categories of personal data shall not be processed
 
-               (c)   the person applying for registration is not a fit and proper person.
+unless –
 
-     (4) Upon registration of an application, the applicant shall pay such fee as may
+          (a)  section 28 applies to the processing; and
 
-     be prescribed.
+          (b)  the    processing    is  carried      out   in  the    course   of  its
 
-     (5) Where the Commissioner refuses an application for registration, he shall, as
+               legitimate activities with appropriate safeguards by a
 
-     soon as reasonably practicable, notify in writing the applicant of the refusal –
+               foundation, association or any other not-for-profit body
 
-               (a)   specifying the reasons for the refusal; and
-     (b)       informing the applicant      that     he  may     appeal  against     the   refusal
+               with a political, philosophical, religious or trade union
 
-               under to section 58.
+               aim and on condition that the processing relates solely
 
-     (6) The Commissioner may, at any time, at the request of the person to whom an
+               to the members or to former members of the body or to
 
-     entry in the register relates, remove his name from the register.
+               persons who have regular contact with it in connection
 
-     Amended by [Act No. 1 of 2009]
+               with its purposes and that the personal data are not
 
-35.  Particulars to be furnished by data controller
+               disclosed outside that body without the consent of the
 
-          (1)  A data controller who applies for registration under section 34
+               data subjects;
 
-          shall provide the following particulars -
+          (c)  the    processing    relates  to      personal      data   which    are
 
-     his name and address;
+               manifestly made public by the data subject; or
 
-     if  he    has nominated a representative for the purposes                   of  this  Act,  the
+          (d)  the processing is necessary for –
 
-               name and address of the representative;
+               (i)     the establishment, exercise or defence of a legal
 
-     a   description of the personal data being,         or to be processed by or on
+                       claim;
+494                            Acts 2017
 
-               behalf of the data controller, and of     the category of data subjects,
+               (ii)   the    purpose  of      preventive  or     occupational
 
-               to which the personal data relate;
+                      medicine,  for     the  assessment  of     the     working
 
-     a   statement as to whether       or  not    he     holds,  is  likely  to  hold,     sensitive
+                      capacity of an employee, medical diagnosis, the
+
+                      provision of health or social care or treatment or
+
+                      the management of health or social care systems
+
+                      and services or pursuant to a contract with a
+
+                      health professional and subject to the conditions
+
+                      and safeguards referred to in subsection (2);
+
+               (iii)  the purpose of carrying out the obligations and
+
+                      exercising specific rights of the controller or of
+
+                      the data subject; or
+
+               (iv)   protecting the vital interests of the data subject
+
+                      or of another person where the data subject is
+
+                      physically or legally incapable of giving consent.
+
+     (2)  The  personal  data  referred   to  in  subsection     (1)     may      be
+
+processed for the purposes referred to in subsection (1)(d)(ii) where the data
+
+are processed by or under the responsibility of a professional or other person
+
+subject to the obligation of professional secrecy under any enactment.
+
+     (3)  Any person who contravenes subsection (1) shall commit an
+
+offence and shall, on conviction, be liable to a fine not exceeding 100, 000
+
+rupees and to imprisonment for a term not exceeding 5 years.
+
+30.  Personal data of child
+
+     (1)  No person shall process the personal data of a child below the
+
+age of 16 years unless consent is given by the child’s parent or guardian.
+
+     (2)  Where the personal data of a child below the age of 16 years is
+
+involved, a controller shall make every reasonable effort to verify that consent
+
+has been given or authorised, taking into account available technology.
+
+31.  Security of processing
+
+     (1)  A controller or processor shall, at the time of the determination
+
+of the means for processing and at the time of the processing –
+
+          (a)  implement     appropriate      security  and      organisational
+
+               measures for –
+
+               (i)    the prevention of unauthorised access to;
+                        Acts 2017                                         495
+
+          (ii)   the alteration of;
+
+          (iii)  the disclosure of;
+
+          (iv)   the accidental loss of; and
+
+          (v)    the destruction of,
+
+          the data in his control; and
+
+     (b)  ensure that the measures provide a level             of  security
+
+          appropriate for –
+
+          (i)    the harm that might result from –
+
+                 (A)    the unauthorised access to;
+
+                 (B)    the alteration of;
+
+                 (C)    the disclosure of;
+
+                 (D)    the destruction of,
+
+                 the data and its accidental loss; and
+
+          (ii)   the nature of the data concerned.
+
+(2)  (a)  The measures referred to in subsection (1) shall include –
+
+          (i)    the pseudonymisation and encryption of personal
+
+                 data;
+
+          (ii)   the ability to ensure the ongoing confidentiality,
+
+                 integrity, availability and resilience of processing
+
+                 systems and services;
+
+          (iii)  the ability to restore the availability and access
+
+                 to personal data in a timely manner in the event
+
+                 of a physical or technical incident; and
+
+          (iv)   a  process  for          regularly  testing,  assessing  and
+
+                 evaluating  the          effectiveness  of    technical  and
+
+                 organisational measures for ensuring the security
+
+                 of the processing.
+
+     (b)  The Office may lay down technical standards for the
+
+requirements specified in paragraph (a).
+496                                 Acts 2017
+
+         (3)  In determining the appropriate security measures referred
+
+to   in  subsection  (1),  in  particular,  where     the  processing   involves  the
+
+transmission of data over an information and communication network, a
+
+controller shall have regard to –
+
+              (a)    the state of technological development available;
+
+              (b)    the cost of implementing any of the security measures;
+
+              (c)    the special risks that exist in the processing of the data; and
+
+              (d)    the nature of the data being processed.
+
+         (4)  Where a controller is using the services of a processor –
+
+              (a)    he or it shall choose a processor providing sufficient
+
+                     guarantees in respect of security and organisational
+
+                     measures       for     the  purpose     of    complying      with
+
+                     subsection (1); and
+
+              (b)    the   controller    and     the  processor  shall  enter  into   a
+
+                     written contract which shall provide that –
+
+                     (i)       the  processor    shall  act  only   on  instructions
+
+                               received from the controller; and
+
+                     (ii)      the  processor    shall  be   bound  by  obligations
+
+                               devolving on the controller under subsection (1).
+
+         (5)  Where a processor processes personal data other than as
+
+instructed by the controller, the processor shall be considered to be a
+
+controller in respect of that processing.
+
+         (6)  Every controller or processor shall take all reasonable steps
+
+to ensure that any person employed by him or it is aware of, and complies
+
+with, the relevant security measures.
+
+32.      Prior security check
+
+         (1)  Where the Commissioner is of the opinion that the processing
+
+or transfer of data by a controller or processor may entail a specific risk to
+
+the privacy rights of data subjects, he may inspect and assess the security
+
+measures taken under section 31 prior to the beginning of the processing or
+
+transfer.
+                                Acts 2017                                     497
+
+     (2)  The  Commissioner          may,  at   any  reasonable   time  during
+
+working hours, carry out further inspection and assessment of the security
+
+measures imposed on a controller or processor under section 31.
+
+33.  Record of processing operations
+
+     (1)  Every controller or processor shall maintain a record of all
+
+processing operations under his or its responsibility.
+
+     (2)  The record shall set out –
+
+          (a)  the        name  and    contact  details  of  the  controller  or
+
+               processor, and, where applicable, his or its representative
+
+               and any data protection officer;
+
+          (b)  the purpose of the processing;
+
+          (c)  a description of the categories of data subjects and of
 
                personal data;
 
-     a description of the purpose for which the personal data are being or are
+          (d)  a description of the categories of recipients to whom
 
-               to be processed;
+               personal data have been or will be disclosed, including
 
-     a description of any recipient     to whom the data controller intends or may
+               recipients in other countries;
 
-               wish to disclose the personal data;
+          (e)  any transfers of data to another country, and, in the
 
-     the names, or a description of, any country to which the data controller
+               case of a transfer referred to in section 36, the suitable
 
-               directly or indirectly transfers, or intends or may wish, directly or
+               safeguards;
 
-               indirectly to transfer the data; and
+          (f)  where possible, the envisaged time limits for the erasure
 
-     the  class  of   data  subjects,   or  where        practicable     the     names     of    data
+               of the different categories of data; and
 
-               subjects, in respect of which the data controller holds personal
+          (g)  the        description  of  the  mechanisms   referred   to    in
 
-               data.
-(2)  Any  data  controller   who,  knowingly   supplies     false  information  under
+               section 22 (3).
 
-     subsection (1), shall commit an offence and shall, on conviction, be liable
+     (3)  The controller or processor shall, on request, make the record
 
-     to a fine not exceeding 100,000 rupees and to imprisonment for a term
+available to the Office.
 
-     not exceeding 2 years.
+PART V – PROCESSING OPERATIONS LIKELY TO PRESENT RISK
 
-(3)  Where the data controller in respect of whom there is an entry in the
+34.  Data protection impact assessment
 
-     register changes his address, he shall, within 15 days of the change in
+     (1)  Where processing operations are likely to result in a high
 
-     address, notify the Commissioner in writing.
+risk to the rights and freedoms of data subjects by virtue of their nature,
+498                         Acts 2017
 
-Amended by [Act No. 1 of 2009]
+scope, context and purposes, every controller or processor shall, prior to
 
-     35A. Particulars to be furnished by data processor
+the processing, carry out an assessment of the impact of the envisaged
 
-     (1)  A data processor who applies for registration under section 34
+processing operations on the protection of personal data.
 
-          shall provide the following particulars –
+     (2)  The processing operations referred to in subsection (1) are –
 
-          (a)    his name and address;
+          (a)  a systematic and extensive evaluation of personal aspects
 
-          (b)    a  description    of   the    personal     data   being,  or   to  be
+               relating to individuals which is based on automated
 
-                 processed, and the category of data subjects to which the
+               processing, including profiling, and on which decisions
 
-                 personal data relate;
+               are  based   that  produce    legal  effects  concerning     the
 
-          (c)    the country to which he transfers, or intends to transfer, the
+               individual or significantly affect the individual;
 
-                 personal data;
+          (b)  processing on a large scale of special categories of data
 
-          (d)    a statement as to whether or not he processes, or intends
+               referred to in section 29;
 
-                 to process, sensitive personal data; and
+          (c)  a systematic monitoring of a publicly accessible area
 
-          (e)    such other particulars as the Commissioner may require.
+               on a large scale;
 
-     (2)  Any   data  processor         who  knowingly  supplies   false   information
+          (d)  any other processing operations for which consultation
 
-          under     subsection     (1)  shall  commit   an  offence  and   shall,   on
+               with the Office is required.
 
-          conviction, be liable to a fine not exceeding 100,000 rupees and
+     (3)  An assessment shall include –
 
-          to imprisonment for a term not exceeding 2 years.
-          (3)      Where a data processor in respect of whom there is an entry in
+          (a)  a systematic description of the envisaged processing
 
-                   the register changes his address, he shall, within 15 days of the
+               operations   and    the   purposes      of    the     processing,
 
-                   change, notify the Commissioner in writing.
+               including,   where  applicable,      the    legitimate  interest
 
-     Added by [Act No. 1 of 2009]
+               pursued by the controller or processor;
 
-          35B. Registration of changes in particulars
+          (b)  an assessment of the necessity and proportionality of
 
-          (1)      Where, following the granting of an application under section 34,
+               the processing operations in relation to the purposes;
 
-                   there is a change in any of the particulars referred to in section
+          (c)  an assessment of the risks to the rights and freedoms of
 
-                   35 or 35A, the data controller or data processor, as the case may
+               data subjects;
 
-                   be, shall, within 14 days of the date of the change, notify the
+          (d)  the measures envisaged to address the risks and the
 
-                   Commissioner in writing, of the nature and the date of the
+               safeguards,     security  measures   and      mechanisms     to
 
-                   change.
+               ensure the protection of personal data and to demonstrate
 
-          (2)      On receipt of a notification under subsection (1), the
+               compliance with this Act, taking into account the rights
 
-                   Commissioner, on being satisfied that the change must be made,
+               and  legitimate    interests  of  data      subjects  and  other
 
-                   shall amend the appropriate entry in the register.
+               persons concerned.
+                                   Acts 2017                                   499
 
-          (3)      Any data controller or data processor who fails to comply with
+     (4)  Where     appropriate,   the   controller      or  processor  shall  seek
 
-                   subsection (1) shall commit an offence and shall, on conviction,
+the views of data subjects on the intended processing, without prejudice
 
-                   be liable to a fine not exceeding 50,000 rupees.
+to the protection of commercial or public interests or the security of the
 
-     Added by [Act No. 14 of 2009]
+processing operations.
 
-36.  Contents of register
+35.  Prior authorisation and consultation
 
-     Each entry in the register shall contain the particulars provided under section 35
+     (1)  Every controller or processor shall obtain authorisation from
 
-and 35A.
+the Office prior to processing personal data in order to ensure compliance
 
-     Amended by [Act No. 1 of 2009]
+of the intended processing with this Act and in particular to mitigate the
 
-37.  Inspection of register
+risks involved for the data subjects where a controller or processor cannot
 
-     (1)  The register shall be kept in the office of the Commissioner and          shall  at
+provide for the appropriate safeguards referred to in section 36 in relation
 
-          all reasonable times be available for inspection by any person            free   of
+to the transfer of personal data to another country.
 
-          charge.
+     (2)  The controller or processor shall consult the Office prior to
 
-     (2)  Any person may, on payment of such fee as may be prescribed, obtain
+processing personal data in order to ensure compliance of the intended
 
-          from the Commissioner a certified copy of, or of an extract from, any entry
+processing with this Act and in particular to mitigate the risks involved for
 
-          in the register.
-38.  Duration of registration
+the data subjects where –
 
-     (1)  Any registration under section 34 shall be for a period not exceeding one
+          (a)       a data protection impact assessment as provided for
 
-          year  and  on        the  expiry  of     such  period,  the   relevant    entry  shall  be
+                    in section 34 indicates that processing operations are
 
-          cancelled unless the registration is renewed.
+                    by virtue of their nature, scope or purposes, likely to
 
-     (2)  The period specified under subsection (1) shall be calculated -
+                    present a high risk; or
 
-          (a)   in   the  case      of  a   first  registration,  from  the   date  on     which  the
+          (b)       the Office considers it necessary to carry out a prior
 
-                relevant entry was made in the register; and
+                    consultation on processing operations that are likely to
 
-          (b)   in the case of a registration which               has   been  renewed,     from   the
+                    present a high risk to the rights and freedoms of data
 
-                date on which it was renewed.
+                    subjects by virtue of their nature, scope or purposes.
 
-     (3)  The Commissioner may, subject to this Act, renew a registration upon
+     (3)  Where the Office is of the opinion that the intended processing
 
-          application by any data controller or data processor, and on payment of
+does not comply with this Act, in particular where risks are insufficiently
 
-          such fee as may be prescribed.
+identified or mitigated, it shall prohibit the intended processing and make
 
-     Amended by [Act No. 1 of 2009]
+appropriate proposals to remedy such non-compliance.
 
-39.  Failure to register or to renew registration
+     (4)  The       Office  shall  make  public       a  list  of  the  processing
 
-               Any data controller or data processor who, without reasonable excuse
+operations which are subject to prior consultation in accordance with
 
-               or lawful authority, keeps or processes any personal data or sensitive
+subsection (2)(b).
+500                               Acts 2017
 
-               personal data, without registering himself or renewing his registration,
+     (5)  The controller or processor shall provide the Office with
 
-               shall commit an offence.
+the data protection impact assessment provided for in section 34 and, on
 
-Amended by [Act No. 1 of 2009]
+request, with any other information, so as to allow the Office to make
 
-40.  Certificate issued by Commissioner
+an assessment of the compliance of the processing and in particular of
 
-     In any proceedings in which the registration of a person as a data controller or a
+the risks for the protection of personal data of the data subject and of the
 
-     data processor is in question, a certificate under the hand of the Commissioner
+related safeguards.
 
-     that there is no entry in the register in respect of the person as a data controller
+                 PART VI – TRANSFER OF PERSONAL
 
-     or data processor, shall be conclusive evidence of that fact.
-                    PART VI - RIGHTS OF DATA SUBJECTS
+                     DATA OUTSIDE MAURITIUS
 
-41.  Access to personal data
+36.  Transfer of personal data outside Mauritius
 
-     (1)  Subject to section 42, a data controller shall on the written request of a
+     (1)  A controller or processor may transfer personal data to another
 
-          data subject or a relevant person -
+country where –
 
-          (a)    inform the data subject or the relevant person -
+          (a)        he or it has provided to the Commissioner proof of
 
-                     (i)      whether the data kept by him include personal data
+                     appropriate safeguards with respect to the protection of
 
-                     relating to the data subject;
+                     the personal data;
 
-                     (ii)     the purposes for which the data are being or are to
+          (b)        the    data  subject  has  given  explicit   consent    to   the
 
-                     be processed;
+                     proposed transfer, after having been informed of the
 
-                     (iii)    the recipients or classes of recipients to whom they
+                     possible risks of the transfer owing to the absence of
 
-                     are or may be disclosed; and
+                     appropriate safeguards;
 
-          (b)    supply the data subject or the relevant person with a copy of any
+          (c)        the transfer is necessary –
 
-                 data referred to in paragraph (a) on payment of the prescribed fee.
+                     (i)    for the performance of a contract between the data
 
-     (2)  A request  under    subsection  (1)(a)  and  (b)  shall  be  treated  as  a  single
+                            subject and the controller or the implementation
 
-          request.
+                            of pre-contractual measures taken at the data
 
-     (3)  Where any data referred to under subsection (1) is expressed in terms
+                            subject’s request;
 
-          that are not intelligible without explanation, the data controller shall supply
+                     (ii)   for the conclusion or performance of a contract
 
-          the information with an explanation of those terms.
+                            concluded      in  the  interest  of  the  data  subject
 
-     (4)  A fee paid by any person to a data controller under this section shall be
+                            between the controller and another person;
 
-          returned to him where a request under subsection (1) is not complied
+                     (iii)  for reasons of public interest as provided by law;
 
-          with.
+                     (iv)   for the establishment, exercise or defence of a
 
-     (5)  The information to be supplied pursuant to a request under this section
+                            legal claim; or
 
-          shall be supplied by reference to any personal data at the time when the
+                     (v)    in order to protect the vital interests of the data
 
-          request is received, except that it may take account of any amendment or
+                            subject  or    of   other  persons,   where  the     data
 
-          deletion made between that time and the time when the information is
+                            subject  is    physically  or     legally  incapable  of
 
-          supplied, being an amendment or deletion that would have been made
+                            giving consent; or
+                     Acts 2017                                                  501
 
-          regardless of the receipt of the request.
-42.  Compliance with request for access to personal data
+          (vi)  for the purpose of compelling legitimate interests
 
-               (1)      Subject         to  subsection    (2)   and    section    43  and  to    the
+                pursued by the controller or the processor which
 
-          payment   of  the   prescribed    fee,   a  data     controller  shall  comply   with  a
+                are not overridden by the interests, rights and
 
-          request under section 41 not later than 28 days after the receipt of the
+                freedoms  of   the  data  subjects            involved          and
 
-          request.
+                where –
 
-     (2)       Where a data controller is unable to comply with the request within the
+                (A)  the transfer is not repetitive and concerns
 
-          period specified in subsection (1), he shall –
+                     a limited number of data subjects; and
 
-          (a)  before the expiry of the specified period –
+                (B)  the controller or processor has assessed
 
-                        (i)       inform the data subject or the relevant person who
+                     all the circumstances surrounding the data
 
-                        has made the request on behalf of the data subject, that he
+                     transfer operation and has, based on such
 
-                        is unable to comply with the request and shall, if required,
+                     assessment, provided to the Commissioner
 
-                        state the reasons therefor;
+                     proof     of   appropriate               safeguards        with
 
-                        (ii)      endeavour to comply with the request in such time
+                     respect to the protection of the personal
 
-                        reasonably practicable, and
+                     data; or
 
-          (b)  as   soon     as   practicable  after      the  expiry  of  the  specified  period,
+     (d)  the transfer is made from a register which, according
 
-               comply with the request.
+          to law, is intended to provide information to the public
 
-43.  Denial of access to personal data
+          and which is open for consultation by the public or by
 
-     (1)  A data controller may refuse a request under section 41 where –
+          any person who can demonstrate a legitimate interest,
 
-          (a)  he is not supplied with such information as he may reasonably
+          to the extent that the conditions laid down by law for
 
-               require in order to satisfy himself as to the identity of the person
+          consultation are fulfilled in the particular case.
 
-               making        the  request,    and     to  locate  the    information  which      the
+(2)  A transfer pursuant to subsection (1)(d) shall not involve
 
-               person seeks;
+the entirety of the personal data or entire categories of the personal data
 
-          (b)  compliance         with  such   request    will  be   in  contravention     with  his
+contained in the register and, where the register is intended for consultation
 
-               confidentiality obligation imposed under any other enactment.
-(2)      Where a data controller cannot comply with a request under section 41
+by persons having a legitimate interest, the transfer shall be made only at
 
-         without  disclosing          personal  data       relating  to  another   person,     he  may
+the request of those persons or in case they are to be the recipients.
 
-         refuse the request unless -
+(3)  Subsection (1)(a) and (c)(i), (ii) and (vi) shall not apply to
 
-         (a)      the     other   individual    has    consented     to  the  disclosure  of   the     his
+activities carried out by a public authority in the exercise of its functions.
 
-                  personal data to the person making the request; or
+(4)  The Commissioner may request a person who transfers data
 
-         (b)      he obtains the written approval of the Commissioner.
+to another country to demonstrate the effectiveness of the safeguards or the
 
-(3)      In   determining        for  the  purposes        of  subsection     (2)(b)  whether      it  is
+existence of compelling legitimate interests and may, in order to protect
 
-         reasonable       for    the  Commissioner         to   approve  a    request     without      the
+the rights and fundamental freedoms of data subjects, prohibit, suspend or
 
-         consent      of  the     other    individual  concerned,        regard   shall   be   had,    in
+subject the transfer to such conditions as he may determine.
+502                                Acts 2017
 
-         particular, to-
+          PART VII – RIGHTS OF DATA SUBJECTS
 
-         (a)      any duty of confidentiality owed to the other individual;
+37.  Right of access
 
-         (b)      any steps taken by the data controller with a view to seeking the
+     (1)  (a)      Every controller shall, on the written request of a data
 
-                  consent of the other individual;
+subject  provide,  at  reasonable  intervals,  without  excessive  delay   and,
 
-         (c)      whether the other individual is capable of giving consent; and
+subject to subsection (7), free of charge, confirmation as to whether or not
 
-         (d)      any express refusal of consent by the other individual.
+personal data relating to the data subject are being processed and forward
 
-(4)  (a)          Where        a  data     controller      has  previously        complied     with    a
+to him a copy of the data.
 
-request made under section 41 by a data subject, the data controller is not
+		        (b)      Where a controller has a reasonable doubt concerning
 
-obliged to comply with a subsequent identical or similar request under that
+the identity of a person making a request under paragraph (a), he or it may
 
-section  by   that     data      subject   unless      a   reasonable      interval   has      elapsed
+request the provision of additional information to confirm the identity of
 
-between      compliance        with   the     previous     request       and  the  making      of    the
+the data subject.
 
-current request.
+     (2)  Where personal data are being processed, the controller shall
 
-         (b)      In   determining,        for  the    purposes      of  paragraph       (a),  whether
+provide to the data subject information relating to –
 
-                  requests        under    section     41  are  made     at   reasonable       intervals,
+          (a)      the purpose of the processing;
 
-                  regard shall be had to -
+          (b)      the categories of personal data concerned;
 
-                           (i)        the nature of the data;
+          (c)      the recipients or categories of recipient to whom the
 
-                           (ii)       the purpose for which the data are processed; and
+                   data have been or will be disclosed;
 
-                           (iii)      the frequency with which the data are altered.
-     (5)  A data controller shall not comply with a request under section 41 where
+          (d)      the period for which the data will be stored or, if this is
 
-          –
+                   not possible, the criteria used to determine that period;
 
-          (a)      he is being requested to disclose information given or to be given
+          (e)      the existence of the right to request from the controller
 
-                   in confidence for the purposes of -
+                   rectification or erasure of personal data or restriction of
 
-                   (i)     the     education,  training      or  employment,   or     prospective
+                   processing of personal data concerning the data subject
 
-                           education, training or employment, of the data subject;
+                   or to object to the processing of the data;
 
-                   (ii)    the appointment, or prospective appointment, of the data
+          (f)      the right to lodge a complaint with the Commissioner;
 
-                           subject to any office; or
+          (g)      where the personal data are not collected from the data
 
-                   (iii)   the provision, or prospective provision, by the data subject
+                   subject, any available information as to their source;
 
-                           of any service;
+          (h)      the existence of automated decision making, including
 
-          (b)      the personal data requested consist of information recorded by
+                   profiling, and information about the logic involved, as
 
-                   candidates      during      an        academic,      professional  or         other
+                   well as the significance and envisaged consequences of
 
-                   examination;
+                   such processing for the data subject; and
+                                Acts 2017                                   503
 
-          (c)      such compliance would, by revealing evidence of the commission
+          (i)    appropriate safeguards taken under section 36, in case
 
-                   of any offence other than an offence under this Act, expose him to
+                 the  personal    data  are  transferred  or    intended    to  be
 
-                   proceedings for that offence.
+                 transferred to another country.
 
-44.  Inaccurate personal data
+     (3)  The controller shall provide the information referred to in
 
-          (1)      A      data     controller  shall,    upon    being      informed  as     to   the
+subsection (2) in an intelligible form, using clear and plain language.
 
-          inaccurateness of personal data, by a data subject to whom such data
+     (4)  Where the personal data are not or have not been collected
 
-          pertains, cause such data to be rectified, blocked, erased or destroyed,
+from the data subject, the controller shall not be required to provide
 
-          as appropriate.
+information where the processing is expressly prescribed by law or this
 
-          (2)      Where        a  data   controller     is  aware  that    a  third  party  holds
+proves to be impossible or involves a disproportionate effort.
 
-          inaccurate personal data, he shall, as soon as reasonably practicable,
+     (5)  (a)    The controller shall, within one month of the receipt of
 
-          require  the    third    party  to   rectify,  block,  erase  or  destroy   the  data,  as
+a request, inform the data subject in writing, whether or not any action has
 
-          appropriate.
+been taken pursuant to subsection (1).
 
-     (3)  Where the third party specified in subsection (2) fails to comply with the
+          (b)    The period specified in paragraph (a) may be extended
 
-          requirement under that subsection, he shall commit an offence.
-          (4)  Where     a  data  controller  fails  to  rectify,  block,  erase  or  destroy
+by a further month where necessary, taking into account the complexity
 
-          inaccurate personal data, a data subject may apply to the Commissioner
+and the number of requests made.
 
-          to have such data rectified, blocked, erased or destroyed, as appropriate.
+     (6)  Where a controller refuses to take action on the request of a
 
-     (5)  Upon being satisfied by an application under subsection (4) that the
+data subject, he or it shall, within one month of the receipt of the request,
 
-     personal data is incorrect, the Commissioner shall, where he is satisfied,
+inform the data subject in writing of the reason for the refusal and on the
 
-     direct the data controller to rectify, block, erase or destroy those data and
+possibility of lodging a complaint with the Commissioner.
 
-     any other personal data in respect of which he is the data controller.
+     (7)  (a)    Where  the       request    is  manifestly     excessive,      the
 
-     (6)  Where the Commissioner –
+controller may charge a fee for providing the information or taking the
 
-          (a)  issues a direction under subsection (5); or
+action requested, or he or it may not take the action requested.
 
-          (b)  is satisfied on the application by an individual that personal data of
+          (b)    Where the controller takes a decision under paragraph (a),
 
-               which the individual is the data subject were inaccurate and have
+he or it shall bear the burden of proving the manifestly excessive character
 
-               been rectified, blocked, erased or destroyed,
+of the request.
 
-          he may direct the data controller to notify third parties to whom the data
+38.  Automated individual decision making
 
-          have been disclosed, of the rectification, blocking, erasure or destruction.
+     (1)  Every data subject shall have the right not to be subject to a
 
-                            PART VII - EXEMPTIONS
+decision based solely on automated processing, including profiling, which
 
-45.  National security
+produces legal effects concerning him or significantly affects him.
+504                                 Acts 2017
 
-     (1)                          Personal data are exempt from any provision of this
+     (2)  Subsection (1) shall not apply where the decision is –
 
-          Act where the non-application of such provision would, in the opinion of
+          (a)  necessary for entering into, or performing, a contract
 
-          the Prime Minister be required for the purpose of safeguarding national
+               between the data subject and a controller;
 
-          security.
+          (b)  authorised by a law to which the controller is subject and
 
-     (2)                          In any proceedings in which the non-application of
+               which lays down suitable measures to safeguard the data
 
-          the provisions of this Act on grounds of national security is in question, a
+               subject’s rights, freedoms and legitimate interests; or
 
-          certificate under the hand of the Prime Minister referred in subsection (1)
+          (c)  based on the data subject’s explicit consent.
 
-          certifying that such is the case, shall be conclusive evidence of that fact.
+     (3)  Any  automated   processing          of  personal  data  intended       to
 
-46.  Crime and taxation
+evaluate certain personal aspects relating to an individual shall not be
 
-     The processing of personal data for the purposes of -
-               (a)      the prevention or detection of crime;
+based on special categories of personal data.
 
-               (b)      the apprehension or prosecution of offenders; or
+     (4)  In the cases referred to in subsection (2), the information to
 
-               (c)      the assessment or collection of any tax, duty or any imposition of
+be provided by the controller under section 23 shall include information
 
-                        a similar nature,
+as to the existence of processing for a decision of the kind referred to in
 
-     shall be exempt from -
+subsection (1) and the envisaged effects of such processing on the data subject.
 
-                        (i)         the   Second,     Third,     Fourth  and        Eighth   data     protection
+     (5)  In the cases referred to in subsection (2)(a) or (c), the controller
 
-                                    principles;
+shall implement suitable measures to safeguard the data subject’s rights,
 
-                        (ii)        sections 23 to 26; and
+freedoms and legitimate interests.
 
-                        (iii)       Part VI of this Act in respect of blocking personal data,
+39.  Rectification, erasure or restriction of processing
 
-     to   the  extent   to     which  the      application   of   such   provisions     would    be     likely  to
+     (1)  (a)  A controller shall, on being informed of the inaccuracy
 
-     prejudice any of the matters specified in paragraphs (a) to (c).
+of personal data by a data subject to whom such data pertains, cause the
 
-47.  Health and social work
+data to be rectified without undue delay.
 
-     (1)                       A    data  controller  shall      be  exempt      from   the      application    of
+          (b)  A right to rectification under paragraph (a) shall include
 
-               section  41     where      the  personal     data  to     which  access       is  being  sought
+the right of a data subject to have incomplete personal data completed,
 
-               relates  to     the  physical     or  mental      health  of  the    data     subject    and     the
+having regard to the purpose of the processing.
 
-               application of that section is likely to cause serious harm to the physical or
+     (2)  A controller shall erase personal data without undue delay
 
-               mental health of the data subject or of, any other person.
+where –
 
-     (2)                       The    Prime    Minister     may,     by  notice     in  the  Gazette    or      by
+          (a)  the data are no longer necessary in relation to the
 
-               regulations, waive the obligations imposed under section 41, on a public
+               purpose for which they were collected or otherwise
 
-               authority, voluntary organisations and any other similar body as may be
+               processed;
+                                     Acts 2017                      505
 
-               prescribed, where such public authority, voluntary organisation or other
+     (b)  the  data  subject         withdraws  consent  on  which             the
 
-               body carries out social work in relation to a data subject or any other
+          processing is based and where there is no other legal
 
-               individual,     and  the   application    of   that   section    is  likely   to  prejudice      the
+          ground for the processing;
 
-               carrying out of the social work.
-48.  Regulatory activities
+     (c)  the data subject objects to the processing of personal
 
-     The  processing  of    personal    data  for     the  purpose     of  discharging      any   of    the
+          data and there are no overriding legitimate grounds for
 
-     relevant functions -
+          the processing; or
 
-          (a)  designed for protecting members of the public against -
+     (d)  the personal data have been unlawfully processed.
 
-                            (i)       financial    loss    due  to     dishonesty,     malpractice      or
+(3)  Where the controller has made the personal data public, he
 
-                            other  serious    improper         conduct,    or    by   the  unfitness    or
+shall take all reasonable steps to inform third parties processing such data,
 
-                            incompetence         of,  persons   concerned        in   the  provision    of
+that the data subject has requested the erasure of any links to, or copy or
 
-                            banking, insurance, investment or other financial services
+replication of, that personal data.
 
-                            or in the management of bodies corporate;
+(4)  Subsections (2) and (3) shall not apply where the processing
 
-                            (ii)      financial loss due to the conduct of discharged or
+of the personal data is necessary –
 
-                            undischarged bankrupts; or
+     (a)  for reasons of public interest in the field of public
 
-                            (iii)     dishonesty, malpractice or other seriously improper
+          health;
 
-                            conduct by, or the unfitness or incompetence of, persons
+     (b)  for the purpose of historical, statistical or scientific
 
-                            authorised to carry on any profession or other activity;
+          research;
 
-               (b)                 conferred     on   the      Bank    of  Mauritius,      the  Financial
+     (c)  for compliance with a legal obligation to process the
 
-               Services     Commission           and  the      Financial   Intelligence    Unit,  by    or
+          personal data to which the controller is subject or for
 
-               under any enactment;
+          the performance of a task carried out in the public
 
-               (c)                 for  protecting         charitable    trusts  and       other  bodies
+          interest or in the exercise of official authority vested in
 
-               involved in charitable work against misconduct or mismanagement
+          the controller; or
 
-               in their administration;
+     (d)  for the establishment, exercise or defence of a legal
 
-               (d)                 for  protecting    the      property    of  charitable       trusts  and
+          claim.
 
-               other        bodies      specified          in  paragraph         (c)  from      loss    or
+(5)  A controller may, at the request of a data subject, restrict the
 
-               misapplication;
+processing of personal data where –
 
-               (e)                 for the recovery of the property              of   charitable  trusts
+     (a)  the accuracy of the personal data is contested by the
 
-               and other bodies specified in paragraph (c);
+          data subject, for a period enabling the controller to
 
-               (f)                 for securing the health, safety and welfare of persons
+          verify the accuracy of the data;
 
-               at work;
-               (g)                for  protecting  persons        other     than  persons    at  work
+     (b)  the controller no longer needs the personal data for the
 
-               against risk to health or safety arising out of or in connection with
+          purpose of the processing, but the data subject requires
 
-               the actions of persons at work; or
+          them for the establishment, exercise or defence of a
 
-               (h)                designed for –
+          legal claim;
+506                             Acts 2017
 
-                           (i)       protecting members of the public against conduct
+          (c)     the processing is unlawful and the data subject opposes
 
-                           which adversely affect their interests by persons carrying
+                  the  erasure  of   the      personal  data  and  requests   the
 
-                           on a business;
+                  restriction of their use instead; or
 
-                           (ii)      regulating    agreements         or  conduct     which  have  as
+          (d)     the data subject has objected to the processing pursuant
 
-                           their object or effect the prevention, restriction or distortion
+                  to section 41 pending verification as to whether the
 
-                           of competition in connection with any commercial activity;
+                  legitimate grounds of the controller override those of
 
-                           or
+                  the data subject.
 
-                           (iii)     regulating    conduct        on  the   part  of  one    or  more
+     (6)  Where   processing    of   personal      data  is   restricted  under
 
-                           undertakings which amounts to the abuse of a dominant
+subsection (4) –
 
-                           position in a market,
+          (a)     the personal data shall, with the exception of storage,
 
-          shall be exempt from the application of sections 23 to 26 to the extent that
+                  only be processed with the data subject’s consent or for
 
-          such an application would be likely to prejudice the proper discharge of
+                  the establishment, exercise or defence of a legal claim,
 
-          such functions.
+                  the protection of the rights of another person or for
 
-49.  Journalism, literature and art
+                  reasons of public interest; and
 
-(1)  The  processing  of  personal   data     for  journalistic,  literary  and   artistic   purposes
+          (b)     the controller shall inform the data subject before lifting
 
-     shall be exempt from the provisions specified in subsection (2) where -
+                  the restriction on processing of the personal data.
 
-          (a)  such processing is undertaken with a view to the publication                        of
+     (7)  The controller shall implement mechanisms to ensure that
 
-               any journalistic, literary or artistic material;
+the time limits established for the rectification, erasure or restriction of
 
-          (b)  the        data    controller  involved  in        such     processing  reasonably
+processing of personal data, or for a periodic review of the need for the
 
-               believes that the publication would be in the public interest; and
+storage of the personal data, are observed.
 
-          (c)  the data controller reasonably believes that compliance with any
+40.  Right to object
 
-               such provisions would be incompatible with such purposes.
-     (2)  For the purposes of subsection (1), the processing of personal data shall
+     (1)  The data subject shall have the right to object in writing at
 
-          be exempt from -
+any time to the processing of personal data concerning him unless the
 
-          (a)      the Second, Third, Fifth and Eighth data protection principles;
+controller demonstrates compelling legitimate grounds for the processing
 
-          (b)      sections 23 to 27 and 32; and
+which override the data subject’s interests, rights and freedoms or for the
 
-          (c)      Part VI in respect of blocking personal data.
+establishment, exercise or defence of a legal claim.
 
-50.  Research, history and statistics
+     (2)  Where personal data are processed for the purpose of direct
 
-     (1)  Subject      to  subsections       (2),    (4),  and   (5),  personal     data      which   are
+marketing, the data subject may object to processing of personal data
 
-          processed        only  for  research,      historical  or    statistical  purposes   shall  be
+concerning him for such marketing, which includes profiling to the extent
 
-          exempt from the Fifth data protection principle.
+that it is related to such direct marketing.
 
-     (2)  The exemption provided for under subsection (1) shall not be applicable
+     (3)  Where a data subject objects to processing of personal data
 
-          where -
+for the purpose of direct marketing, the personal data shall no longer be
 
-          (a)      such    personal       data  are  not   processed        to  support  measures     or
+processed for that purpose.
+                             Acts 2017                                        507
 
-                   decisions with respect to particular individuals; and
+     (4)  The rights referred to in subsections (1) and (2) shall be
 
-          (b)      such personal data are not processed in such a way that such
+explicitly brought to the attention of the data subject.
 
-                   processing         would  substantially       damage     or  substantially  distress
+     (5)  In this section –
 
-                   any data subject or will likely cause such damage or distress.
+          “direct  marketing”        means  the    communication     of       any
 
-     (3)  For the purposes of -
+          advertising or marketing material which is directed to any
 
-          (a)      the Second data protection principle; and
+          particular individual.
 
-          (b)      sections 23 and 27,
+41.  Exercise of rights
 
-          further  processing         of  personal   data        only  for  research,     historical  or
+     Any right conferred on an individual in this Act may be exercised –
 
-          statistical  purposes       shall     not  be    regarded    as       incompatible   with   the
+     (a)  where the data subject is a minor, by a person who has
 
-          purposes for which such data was obtained provided that the conditions
+          parental authority over the minor or has been appointed as his
 
-          under subsection (2) are satisfied.
+          guardian;
 
-     (4)  The personal data processed for the purposes specified in subsection (1)
-             shall also be exempt from the provisions of Part VI where -
+     (b)  where the data subject is physically or mentally unfit, by
 
-             (a)  the conditions under subsection (2)(a) and (b) are satisfied; and
+          a person who has been appointed as his guardian or legal
 
-             (b)  the results of the research or any resulting statistics are not made
+          administrator by a Court; or
 
-                  available    in  a  form    which    identifies  any  of  the  data  subjects
+     (c)  in any other case, by a person duly authorised in writing by
 
-                  concerned.
+          the data subject to make a request under this Part.
 
-51.  Information available to the public under an enactment
+          PART VIII – OTHER OFFENCES AND PENALTIES
 
-     Where personal data consists of information which the data controller is obliged
+42.  Unlawful disclosure of personal data
 
-     under an enactment to make available to the public, such data shall be exempt
+     (1)  Any controller who, without lawful excuse, discloses personal
 
-     from -
+data in any manner that is incompatible with the purpose for which such
 
-             (a)  the   Second,       Third,  Fourth,  Fifth  and   Eighth     data    protection
+data has been collected shall commit an offence.
 
-                  principles;
+     (2)  Any processor who, without lawful excuse, discloses personal
 
-             (b)  sections 23 to 29; and
+data processed by him without the prior authority of the controller on
 
-             (c)  Part VI in respect of blocking personal data.
+whose behalf the data are being or have been processed shall commit an
 
-52.  Disclosure required by law or in connection with legal proceedings
+offence.
 
-     Personal data are exempt from –
+     (3)  Subject to subsection (4), any person who –
 
-             (a)             the   Second,     Third,  Fourth      and  Fifth  data    protection
+          (a)  obtains       access  to  personal         data,  or  obtains  any
 
-                  principles;
+               information constituting such data, without the prior
 
-             (b)             sections 23 to 29; and
+               authority of the controller or processor by whom the
 
-             (c)             Part VI in respect of blocking personal data,
+               data are kept; and
+508                            Acts 2017
 
-     where –
+             (b)  discloses the data or information to another person,
 
-                  (i)        the   disclosure  of      such   data  is  required     under  any
+shall commit an offence.
 
-                        enactment or by a Court order;
+       (4)   Subsection (3) shall not apply to a person who is an employee
 
-                  (ii)       the disclosure of such data is necessary for the purpose
-                          of, or in connection with, any on-going or prospective legal
+or agent of a controller or processor and is acting within his mandate.
 
-                          proceedings;
+       (5)   Any  person  who  offers  to  sell  personal  data  where   such
 
-                   (iii)       the disclosure of such data is necessary for the purpose
+personal data has been obtained in breach of subsection (1) shall commit
 
-                          of obtaining legal advice; or
+an offence.
 
-                   (iv)        the disclosure is otherwise necessary for the purpose of
+       (6)   For the purpose of subsection (5), an advertisement indicating
 
-                          establishing, exercising or defending legal rights.
+that personal data is or may be for sale constitutes an offer to sell the
 
-53.  Legal professional privilege
+personal data.
 
-     Personal data are exempt from –
+43.    Offence for which no specific penalty provided
 
-                 (a) the Second, Third, Fourth and Fifth data protection principles; and
+       (1)   Any  person  who  commits     an    offence  under  this    Act  for
 
-                 (b) section 23,
+which no specific penalty is provided or who otherwise contravenes this
 
-     where  the   data    consist  of  information     in  respect   of  which  a  claim  to  legal
+Act shall, on conviction, be liable to a fine not exceeding 200, 000 rupees
 
-     professional privilege or confidentiality as between client and legal practitioner
+and to imprisonment for a term not exceeding 5 years.
 
-     could  be     maintained      in  legal      proceedings,   including      prospective   legal
+       (2)   In addition to any penalty referred to in subsection (1), the
 
-     proceedings.
+Court may –
 
-54.  Domestic purposes
+             (a)  order the forfeiture of any equipment or any article
 
-     Personal data processed by an individual are exempt from -
+                  used or connected in any way with the commission of
 
-            (a)    the data protection principles; and
+                  an offence;
 
-            (b)    Part V and Part VI,
+             (b)  order or prohibit the doing of any act to stop a continuing
 
-     where  such   processing      is  only  for  the  purposes  of  that  individual’s   personal,
+                  contravention.
 
-     family or household affairs or for recreational purposes.
-                           PART VIIl - MISCELLANEOUS
+                  PART IX – MISCELLANEOUS
 
-55.  Annual report
+44.    Exceptions and restrictions
 
-     (1)  The Commissioner shall, not later than 3 months after the end of
+       (1)   No exception to this Act shall be allowed except where it
 
-     every calendar year, lay an annual report of the activities of the office before
+constitutes a necessary and proportionate measure in a democratic society
 
-     the National Assembly.
+for –
 
-     (2)  Without       limiting  the  generality   of   subsection   (1),  the   report   shall
+             (a)  subject to subsection (4), the protection of national
 
-     include –
+                  security, defence or public security;
+                           Acts 2017                                            509
 
-          (a)       a statement about the operation of approved and issued codes of
+              (b)    the prevention, investigation, detection or prosecution
 
-                    practice;
+                     of an offence, including the execution of a penalty;
 
-          (b)       any recommendations that the Commissioner thinks fit relating to
+              (c)    an objective of general public interest, including an
 
-                    the compliance with this Act, and in particular the data protection
+                     economic or financial interest of the State;
 
-                    principles.
+              (d)    the protection of judicial independence and judicial
 
-     (3)  The period starting from the commencement of this Act to the end of the
+                     proceedings; or
 
-          year of such commencement shall be deemed to be the first calendar
+              (e)    the  protection   of   a  data  subject  or  the   rights   and
 
-          year.
+                     freedoms of others.
 
-56.  Codes and guidelines
+     (2)      The processing of personal data for the purpose of historical,
 
-     (1)  The       Commissioner       may,   for   the    purposes   of    this  Act  or    any
+statistical or scientific research may be exempt from the provisions of this
 
-     regulations    made  under   this  Act,  issue    or  approve    codes  of   practice,  or
+Act where the security and organisational measures specified in section 31
 
-     issue guidelines.
+are implemented to protect the rights and freedoms of data subjects involved.
 
-     (2)  Before issuing or approving any code of practice, or issuing any
+     (3)      Where  this  section     has  been  breached,   a   data  subject  or
 
-     guidelines, the Commissioner may consult such person or authority as he
+the Commissioner may apply for a Judge’s order to protect the rights of
 
-     thinks fit.
+individuals.
 
-     (3)  Any code of practice –
+     (4)      (a)    Personal data shall be exempt from any provision of
 
-          (a)       may be varied or revoked;
+this Act where the non-application of such provision would, in the opinion
 
-          (b)       shall, where the code is approved under subsection (1), come into
+of the Prime Minister, be required for the purpose of safeguarding national
 
-                    operation on a day specified by the Commissioner.
+security, defence or public security.
 
-     (4)  The       Commissioner       shall  keep  a   register  of  approved    codes    and
+		            (b)    In any proceedings in which the non-application of any
 
-     guidelines which shall be available for public inspection.
-     (5)  The Commissioner may, on payment of such fee as may be prescribed,
+provision of this Act on grounds of national security, defence or public
 
-          provide copies of, or extracts from, the register specified in subsection
+security is in question, a certificate under the hand of the Prime Minister
 
-          (4).
+certifying that the non-application of the provision is required for the
 
-57.  Service of notice
+purpose of safeguarding national security, defence or public security shall
 
-          (1)         Any notice served by        the      Commissioner      on  an   individual  under
+be conclusive evidence of that fact.
 
-          this Act may be served by -
+45.  Annual report
 
-                      (a)    delivering it to him;
+     (1)      The Commissioner shall, not later than 3 months after the end
 
-                      (b)    sending it to him by registered post addressed to him at his
+of every year, lay an annual report of the activities of the Office before the
 
-                      usual or last known place of residence or business.
+National Assembly.
+510                               Acts 2017
 
-          (2)         Any  notice  served     by      the  Commissioner      on  a    body   corporate
+     (2)     The report shall include –
 
-          under this Act may be served by -
+             (a)    a statement about the operation of Codes of Practice
 
-                      (a)    sending it by post to the registered office of the body; or
+                    issued   or   approved,     or  Guidelines  issued,  by  the
 
-                      (b)    addressing it to and leaving it at the registered office of the
+                    Commissioner;
 
-                      body.
+             (b)    any recommendations that the Commissioner thinks fit,
 
-          (3)         Any  notice  served     by  the      Commissioner      on  an   unincorporated
+                    in relation to compliance with this Act.
 
-          body of persons under this Act may be served by -
+46.  Compliance audit
 
-                      (a)    sending it by post to the place where it ordinarily carries
+     The Commissioner may carry out periodical audits of the systems of
 
-                      out its activities; or
+controllers or processors to ensure compliance with this Act.
 
-                      (b)    by    addressing     it  to   and  leaving  it  at  the  place  where    it
+47.  Codes and Guidelines
 
-                      ordinarily carries out its activities.
+     (1)     The Commissioner may, for the purposes of this Act, issue or
 
-58.  Right of appeal
+approve Codes of Practice, or issue Guidelines.
 
-     Any  person  aggrieved  by    a  decision        of   the  Commissioner     in   respect     of  the
+     (2)     The Commissioner may, before issuing or approving a Code
 
-     performance of his duties and powers under this Act shall have a right of appeal
-     within 21 days from the date when the decision is made known to that person to
+of Practice, or issuing Guidelines, consult such person or authority as he
 
-     the Tribunal.
+thinks fit.
 
-59.  Special jurisdiction of Tribunal
+     (3)     Any Code of Practice –
 
-                      (1)                     Subject       to   subsections      (2)  and     (3),  the
+             (a)    may be varied or revoked;
 
-          Tribunal shall hear and dispose of any appeal under this Act.
+             (b)    shall, where it is approved under subsection (1),
 
-                      (2)                     Sections      40    to  44  of  the   Information      and
+come into operation on a day specified by the Commissioner.
 
-          Communication Technologies Act 2001 shall, as far as appropriate, apply
+48.  Certification
 
-          to    an  appeal   made  under      this  Act     and   to  such    decision     as  may   be
+     (1)     The  Office    may,  in     order  to  encourage   compliance   of
 
-          reached by the Tribunal on appeal under this Act.
+processing operations by controllers and processors with this Act, lay
 
-                      (3)                     Sections      39    and  42(5)    of    the  Information
+down technical standards for data protection certification mechanisms and
 
-          and Communication Technologies Act 2001 shall not apply to an appeal
+data protection seals and marks.
 
-          under this Act.
+     (2)     A certification shall be –
 
-                      (4)                     Subject       to   subsection   (5),     every       appeal
+             (a)    voluntary;
 
-          under section 59 shall be in such form and be accompanied by such fees
+             (b)    issued to a controller or processor for a maximum
 
-          as may be prescribed.
+                    period of 3 years and may be renewed under the same
 
-                      (5)                     The Tribunal may entertain an appeal after
+                    conditions where the relevant requirements continue to
 
-          the expiry of the period of 21 days where it is satisfied that there was
+                    be met;
+                                    Acts 2017                                    511
 
-          sufficient cause for not lodging the appeal within that period.
+            (c)     withdrawn where the requirements for the certification
 
-                      (6)                     The Tribunal may, after giving the parties to
+                    are no longer met.
 
-          the appeal an opportunity of being heard, pass such orders as it thinks fit,
+     (3)    Where a controller or processor seeks certification under this
 
-          confirming, varying or setting aside the decision appealed against.
+section, he or it shall provide to the Office all information and access to his
 
-                      (7)                     The       Tribunal  shall   send     a   copy    of  every
+or its processing activities which are necessary to conduct the certification
 
-          order made by it to the parties to the appeal.
+procedure.
 
-     (8)                                      Any appeal lodged with the Tribunal under
+     (4)    A certification issued under this section shall not alter the
 
-          this  Act,  shall  be  dealt  with  by    it  as  expeditiously     as   possible    and   the
+responsibility of the controller or processor for compliance with this Act.
 
-          Tribunal shall endeavour to dispose of the appeal within 6 weeks from the
+49.  Confidentiality and oath
 
-          date the appeal was lodged.
-                  (9)                          Any        person  who      does  not  comply      with  an
+     (1)    The Commissioner and every authorised officer shall take the
 
-          order   issued   by  the        Tribunal     under    subsection     (6),   shall  commit     an
+oath as set out in the Schedule.
 
-          offence.
+     (2)    No person who is        or  has    been  the  Commissioner   or      an
 
-     10)  No appeal shall lie against any decision made by the Tribunal following a
+authorised officer shall, except –
 
-                    settlement       reached        with   the  consent     of   the  parties     or  their
+            (a)     in accordance with this Act or any other enactment;
 
-          representatives.
+            (b)     on the order of a Court or Judge,
 
-     Added by [Act No. 1 of 2009]
+divulge any confidential information obtained in the exercise of a power or
 
-60.  Immunity
+in the performance of a duty under this Act.
 
-     (1)  Notwithstanding         the     Public       Officers’  Protection         Act,    where    any
+     (3)    Any     person  who,    without    lawful     excuse,  contravenes
 
-     action has been entered before a Court pursuant to any act done by any
+subsection (2) shall commit an offence and shall, on conviction, be liable
 
-     authorised   officer  in  the   execution         of  his  duties     under     this    Act  or  any
+to a fine not exceeding 50, 000 rupees and to imprisonment for a term not
 
-     regulations  made     under     it,  and  it   appears       to  the   Court     that   there    was
+exceeding 2 years.
 
-     reasonable cause to do such act, the Court shall so declare and thereafter
+50.  Protection from liability
 
-     the authorised officer shall be immune from all proceedings, whether civil
+     (1)    Notwithstanding the Public Officers’ Protection Act, where
 
-     or criminal, on account of such act.
+any action has been entered before a Court pursuant to an act done by the
 
-     (2)  No liability, civil or criminal shall attach to the Commissioner in respect of
+Commissioner or an authorised officer in the execution of his duties under
 
-          any act which he may have done or omitted to do in good faith in the
+this Act and it appears to the Court that there was reasonable cause to do
 
-          execution or purported execution of his duties or powers under this Act or
+such act, the Court shall so declare and thereafter the Commissioner or
 
-          regulations made under it.
+authorised officer shall be immune from all proceedings, whether civil or
 
-61.  Offences and penalties
+criminal, on account of such act.
+512                         Acts 2017
 
-     (1) Any person who contravenes this Act shall commit an offence.
+     (2)  No liability, civil or criminal, shall attach to the Commissioner
 
-     (2)  Where     no     specific  penalty       is  provided       for  an   offence,     the  person
+in respect of any act which he may have done or omitted to do in good faith in
 
-     shall, on conviction, be liable to a fine not exceeding 200,000 rupees and to
+the execution, or purported execution, of his duties or powers under this Act.
 
-     imprisonment for a term not exceeding 5 years.
+51.  Right of appeal
 
-62.  Forfeiture
+     Any person aggrieved by a decision of the Commissioner under this
 
-     In addition to any penalty the Court may -
-     (a)  order the forfeiture of any equipment or any article used or connected in
+Act may, within 21 days from the date when the decision is made known to
 
-          any way with the commission an offence;
+that person, appeal to the Tribunal.
 
-     (b)  order or prohibit the doing of any act to stop a continuing contravention.
+52.  Special jurisdiction of Tribunal
 
-63.  Prosecution and jurisdiction
+     (1)  Subject to subsections (2) and (3), the Tribunal shall hear and
 
-     (1)                           An   authorised    officer  may  swear   an  information  in
+dispose of any appeal under this Act.
 
-          respect of any offence under this Act or any regulations made under this
+     (2)  Sections 40 to 44 of the Information and Communication
 
-          Act before a Magistrate.
+Technologies Act shall, as far as appropriate, apply to an appeal made
 
-     (2)  Notwithstanding any other enactment, the Intermediate Court shall
+under this Act and to such decision as may be reached by the Tribunal on
 
-     have jurisdiction to try an offence under this Act or any regulations made
+appeal under this Act.
 
-     under this Act.
+     (3)  Sections 39 and 42 (5) of the Information and Communication
 
-     (3)  No prosecution shall be instituted under this Act except by, or with the
+Technologies Act shall not apply to an appeal under this Act.
 
-          consent, of the Director of Public Prosecutions.
+     (4)  Subject to subsection (5), every appeal under this Act shall be
 
-64.  Consequential amendments
+in such form and be accompanied by such fees as may be prescribed.
 
-     (1)  The Criminal Code is amended by repealing section 300A.
+     (5)  The Tribunal may entertain an appeal after the expiry of the
 
-     (2)  The   Information        and      Communication      Technologies     Act    2001  is
+period of 21 days where it is satisfied that there was sufficient cause for not
 
-     amended –
+lodging the appeal within that period.
 
-          (a)         in section 2, by deleting the definitions of “code of practice” and
+     (6)  The Tribunal may, after giving the parties to the appeal an
 
-                      “personal data”;
+opportunity of being heard, pass such orders as it thinks fit, confirming,
 
-          (b)         by repealing section 33;
+varying or setting aside the decision appealed against.
 
-          (c)         by repealing the Fourth Schedule.
+     (7)  The Tribunal shall send a copy of every order made by it to
 
-     (3)  The National Computer Board Act is amended –
+the parties to the appeal.
 
-          (a)         In  section  2,   by  deleting  the  definitions  of  “computer  service
+     (8)  Any appeal lodged with the Tribunal under this Act shall be
 
-                      person”, “data”, “data user”, and “personal data”;
+dealt with by it as expeditiously as possible and the Tribunal shall endeavour
 
-          (b)         in section 4, by deleting paragraph (d); and
-          (c)     by deleting the FIRST SCHEDULE.
+to dispose of the appeal within 6 weeks from the date the appeal was lodged.
+                           Acts 2017                                       513
 
-65.  Regulations
+     (9)     Any person who does not comply with an order issued by the
 
-     (1)  The Prime Minister may, after consultation with the Commissioner, make
+Tribunal under subsection (6) shall commit an offence.
 
-          such regulations as he thinks fit for this Act.
+     (10)    No appeal shall lie against any decision made by the Tribunal
 
-     (2)  Any regulations made under subsection (1) may provide -
+following a settlement reached with the consent of the parties or their
 
-          (a)     for the requirements which are imposed on the data controller or
+representatives.
 
-                  data processor when processing data;
+53.  Prosecution and jurisdiction
 
-          (b)     for the contents a notification or application to a data controller or
+     (1)     An authorised officer may swear an information in respect
 
-                  data processor should contain;
+of an offence under this Act or any regulations made under it before a
 
-          (c)     for the information to be provided       to the data subject and how
+Magistrate.
 
-                  such information shall be provided;
+     (2)     Notwithstanding any other enactment, the Intermediate Court
 
-          (d)     for the levying of fees and taking of charges;
+shall have jurisdiction to try an offence under this Act or any regulations
 
-          (e)     for the issuing, approval of codes and guidelines;
+made under it.
 
-          (f)     that any person who contravenes them shall commit an offence
+     (3)     No prosecution shall be instituted under this Act except by, or
 
-                  and shall, on conviction, be liable to   a fine not exceeding 100,000
+with the consent of, the Director of Public Prosecutions.
 
-                  rupees and to imprisonment for a term not exceeding 2 years.
+54.  Certificate issued by Commissioner
 
-     (3)  The Prime Minister may, by regulations, amend the Schedules.
+     In any proceedings –
 
-     Amended by [Act No. 14 of 2009]
+     (a)     a copy of, or of an extract from, an entry in the register duly
 
-66.  Commencement
+             certified by the Commissioner to be a true copy shall be
 
-     (1)  Subject to subsection (2), this        Act  shall come into operation on a
+             evidence of the entry or extract; and
 
-     date to be fixed by Proclamation.
+     (b)     a certificate signed by the Commissioner and stating that there
 
-     (2)  Different  dates  may       be  fixed  for  the  coming     into  operation     of
+             is not an entry in the register in respect of a specified person
 
-     different sections of this Act.
+             as a controller or processor shall be evidence of that fact.
 
-Proclaimed by [Proclamation No. 45 of 2004] w.e.f. 27.12.2004
-            Sections 1 and 2 of Part I, Sections 4, 5(b), (c), (e), (g), (h), (i) and (j)
+55.  Regulations
 
-            and 6 of Part II
+     (1)     The Minister may, for the purposes of this Act, after consultation
 
-Proclaimed  by [Proclamation No. 5 of 2009] w.e.f 16th February 2009.
+with the Commissioner, make such regulations as he thinks fit.
 
-            SECTIONS 3, 5(a), (d) AND (f), 7 TO 16 AND 18 TO 66
+     (2)     Any regulations made under subsection (1) may provide –
 
-                      OF THE DATA PROTECTION ACT
+             (a)  for the amendment of the Schedule;
+514                           Acts 2017
 
-Passed by the National Assembly on the first day of June two thousand and four.
+          (b)  for the requirements which are imposed on a controller
 
-                                                                       André Pompon
+               or processor when processing personal data;
 
-                                                       Clerk of the National Assembly
+          (c)  for the contents which a notice or registration by a
 
-                              FIRST SCHEDULE
+               controller or processor should contain;
 
-                              (section 2, 15 and 31)
+          (d)  for the information to be provided to a data subject and
 
-                      DATA PROTECTION PRINCIPLES
+               how such information shall be provided;
 
-First principle
+          (e)  for the levying of fees and taking of charges;
 
-            Personal data shall be processed fairly and lawfully.
+          (f)  for the issuing and approval of Codes of Practice and
 
-Second principle
+               Guidelines; or
 
-            Personal data shall be obtained only for any specified and lawful purpose,
+          (g)  that any person who contravenes them shall commit an
 
-            and shall not be further processed in any manner incompatible with that
+               offence and shall, on conviction, be liable to a fine not
 
-            purpose.
+               exceeding 100, 000 rupees and to imprisonment for a
 
-Third principle
+               term not exceeding 5 years.
 
-            Personal data shall be adequate, relevant and not excessive in relation to
+56.  Repeal
 
-            the purpose for which they are processed.
+     The Data Protection Act is repealed.
 
-Fourth principle
+57.  Transitional provisions
 
-            Personal data shall be accurate and, where necessary, kept up to date.
-         Fifth principle
+     (1)  In this section –
 
-                   Personal data processed for any purpose shall not be kept longer than is
+          “repealed Act” means the Data Protection Act.
 
-                   necessary for that purpose or those purposes.
+     (2)  All assets and funds of the Data Protection Office under the
 
-         Sixth principle
+repealed Act shall, at the commencement of this Act, remain vested in the
 
-                   Personal data shall be processed          in  accordance    with  the     rights  of  the
+Office.
 
-                   data subjects under this Act.
+     (3)  All rights, obligations and liabilities subsisting in favour of
 
-         Seventh principle
+or against the Data Protection Office under the repealed Act shall, at the
 
-                   Appropriate security and organisational measures shall be taken against
+commencement of this Act, continue to exist under the same terms and
 
-                   unauthorised    or    unlawful   processing   of   personal      data     and     against
+conditions in favour of or against the Office.
 
-                   accidental loss or destruction of, or damage to, personal data.
+     (4)  The contents of the register of controllers and processors
 
-         Eighth principle
+kept under the repealed Act shall, at the commencement of this Act, be
 
-                   Personal  data  shall   not  be  transferred  to   another   country,     unless      that
+transferred to the register kept under this Act.
 
-                   country   ensures   an  adequate  level   of  protection    for  the   rights     of  data
+     (5)  Any registration granted under the repealed Act, which is
 
-                   subjects in relation to the processing of personal data.
+valid at the commencement of this Act, shall be deemed to have been
 
-                             Amended by [Act No. 14 of 2009]
+granted under this Act.
+                                 Acts 2017                                 515
 
-                                         SECOND SCHEDULE
+     (6)     Any application made to the Data Protection Office under the
 
-                                                (section 6)
+repealed Act and which is pending at the commencement of this Act shall
 
-         I,  …………………………………………………………make                                        oath/solemnly         affirm/
+be dealt with in accordance with this Act.
 
-declare      that  I  will   faithfully    and     honestly  fulfill  my  duties         as  authorised
+     (7)     Any Code of Practice or Guideline issued under the repealed
 
-officer/Commissioner in conformity with the Data Protection Act 2004 and that I shall not
+Act shall, at the commencement of this Act, continue to remain in force.
 
-without the due authority in that behalf disclose or make known any matter or thing
+     (8)     Any act or thing done, or any contract or agreement entered
 
-which comes to my knowledge by reason of my duties as such.
+into, by the Data Protection Office shall, at the commencement of this Act,
 
-                                                                                     District Magistrate
+be deemed to have been done or entered into by the Office.
 
-Port Louis</pre>
+     (9)     All proceedings, judicial or otherwise, initiated before and
+
+pending at the commencement of this Act, by or against the Data Protection
+
+Office or the Commissioner, may be continued, by or against the Office or
+
+the Commissioner, as the case may be.
+
+     (10)    For the purpose of section 45, the period starting from the
+
+commencement of this Act to the end of the year of such commencement
+
+shall be deemed to be the first year for the filing of the annual report.
+
+     (11)    Where this Act does not make provision for any transition,
+
+the Minister may make such regulations as may be necessary for such
+
+transition.
+
+58.  Commencement
+
+     (1)     Subject to subsection (2), this Act shall come into operation
+
+on a date to be fixed by Proclamation.
+
+     (2)     Different dates may be fixed for the coming into operation of
+
+different sections of this Act.
+
+     Passed by the National Assembly on the eighth day of December
+
+two thousand and seventeen.
+
+						 Bibi Safeena Lotun (Mrs)
+
+					                                   Clerk of the National Assembly
+
+                                 _______________
+516                              Acts 2017
+
+                                 SCHEDULE
+
+                                 [Section 49]
+
+I, .......…………………………………………………………, make oath/
+
+solemnly affirm/declare that I will faithfully and honestly fulfil my duties
+
+as authorised officer/Commissioner in conformity with the Data Protection
+
+Act 2017 and that I shall not, without the due authority in that behalf,
+
+disclose or make known any matter or thing which comes to my knowledge
+
+by reason of my duties as such.
+
+                                               ………………….
+
+					                            District Magistrate Port Louis
+
+       _______________</pre>
