@@ -78,14 +78,28 @@ class UsersController extends Controller
 
     public function readPdf()
     {
-        // dump($_SERVER);
-        // dump();
-        $content = Pdf::getText($_SERVER['DOCUMENT_ROOT'] . 'public/assets/pdf/' . 'ICTA.pdf', 'C:\Program Files\Git\mingw64\bin\pdftotext.exe');
+        // $path = $_SERVER['DOCUMENT_ROOT'] . 'public/assets/pdf/' . 'dpa.pdf';
+        // $path = $_SERVER['DOCUMENT_ROOT'] . 'public/assets/pdf/' . 'dpa_2017.pdf';
+        // $path = $_SERVER['DOCUMENT_ROOT'] . 'public/assets/pdf/' . 'ICTA.pdf';
+        $path = $_SERVER['DOCUMENT_ROOT'] . 'public/assets/pdf/' . 'sample.pdf';
+        $exe = 'C:\Program Files\Git\mingw64\bin\pdftotext.exe';
         $filename = 'text-file.md';
 
-        file_put_contents($filename, $content);
-
+        $content = (new Pdf($exe))
+            ->setPdf($path)
+            ->setOptions(
+                [
+                    'table',
+                    'bom',
+                    'enc UTF-8',
+                ]
+            )
+            ->text()
+        ;
         
+        $formater = "<pre>" . $content . "</pre>";
+        file_put_contents($filename, $formater);
+        dump('completed..!');
         die;
     }
 }
