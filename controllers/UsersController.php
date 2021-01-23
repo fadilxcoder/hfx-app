@@ -58,7 +58,7 @@ class UsersController extends Controller
         # Populating ALGOLIA
         # $index = $this->algolia->initIdx('alg_users');
         # $result = $this->homeModel->getAll();
-        #$this->algolia->insert($alg_index, $result); die;
+        # $this->algolia->insert($alg_index, $result); die;
         
         $result = $this->algolia->searchFor($alg_index, '');
         $resp = $result['hits'];
