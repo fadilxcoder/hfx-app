@@ -75,4 +75,14 @@ class UsersController extends Controller
             'search' => $search,
         ]);
     }
+
+    public function debugger()
+    {
+        $result = $this->homeModel->getAll();
+        dd($result);
+        $this->view->render('dashboard.html', [
+            'users' => $result,
+        ]);
+        
+    }
 }

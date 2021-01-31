@@ -11,6 +11,7 @@ use \Library\Model;
 use \Models\Home;
 use Josantonius\Session\Session;
 use Handler\Manager\AlgoliaManager;
+use DebugBar\StandardDebugBar;
 
 class DependencyInjection
 {
@@ -52,6 +53,10 @@ class DependencyInjection
 
         $container['DI_algolia'] = function () {
             return new AlgoliaManager;
+        };
+
+        $container['DI_standardDebugBar'] = function () {
+            return new StandardDebugBar;
         };
 
         return $container;
