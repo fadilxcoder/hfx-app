@@ -38,16 +38,22 @@
                             </li>
                         </ul>
                     </li>
-                    <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Dashboard">
+                    <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Elasticsearch">
                         <a class="nav-link" href="<?php echo URL . 'elastic-search' ?>">
                             <i class="fa fa-fw fa-search"></i>
                             <span class="nav-link-text">Elasticsearch</span>
                         </a>
                     </li>
-                    <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Dashboard">
+                    <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Algolia">
                         <a class="nav-link" href="<?php echo URL . 'algolia' ?>">
                             <i class="fa fa-fw fa-search"></i>
                             <span class="nav-link-text">Algolia</span>
+                        </a>
+                    </li>
+                    <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Debugger">
+                        <a class="nav-link" href="<?php echo URL . 'debugger' ?>" target="_blank">
+                            <i class="fa fa-fw fa-book"></i>
+                            <span class="nav-link-text">Debugger</span>
                         </a>
                     </li>
                 </ul>

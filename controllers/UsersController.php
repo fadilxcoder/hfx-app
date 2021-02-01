@@ -4,7 +4,6 @@ use Handler\Manager\SecurityManager;
 use \Library\Controller;
 use Handler\Manager\ElasticsearchManager;
 
-
 class UsersController extends Controller
 {
     public function __construct()

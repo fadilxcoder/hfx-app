@@ -27,5 +27,16 @@
     },
     "autoload": {
         "psr-4": {"Handler\\": "services/"}
+    },
+    "scripts": {
+        "auto-scripts": {
+            "who:am:i": "php bin/console who:am:i"
+        },
+        "post-install-cmd": [
+            "@auto-scripts"
+        ],
+        "post-update-cmd": [
+            "@auto-scripts"
+        ]
     }
 }

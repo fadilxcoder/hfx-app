@@ -5,20 +5,25 @@
 	require __DIR__ . '/../configuration/commands.php';
 
 	Dotenv\Dotenv::createImmutable(dirname(__DIR__))->load();
-	$dataFixtures = new Handler\Fixtures\DataFixtures();
 	array_shift($argv);
 	
 	foreach ($argv as $key => $value) {
 		if (array_key_exists($value, $commands)) {
 			try {
-				$methodName = $commands[$value];
-				$dataFixtures->{ $methodName }();
+				$cmd = $commands[$value];
+				$breakdownCmd = explode('@', $cmd);
+				$className = $breakdownCmd[0];
+				$methodName = $breakdownCmd[1];
+
+				$class = new $className();				
+				$class->{ $methodName }();
+
 			} catch (Error $e) {
-				echo "\033[31mPlease define method `" . $methodName . "` in DataFixtures ! \033[0m" . "\n\r";
+				echo "Please define method `" . $methodName . "` in `" . $className . "`\n\r";
 			}
 			return;
 		} else {
-			echo "\033[31mCommand `" . $value . "` was not found ! \033[0m" . "\n\r";
+			echo "Command `" . $value . "` was not found !\n\r";
 		}
 	}
 ?>
