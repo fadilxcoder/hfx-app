@@ -27,23 +27,31 @@ class ElasticsearchManager
     {       
         $query = self::initializeClient()->search([
             'size' => 100,
-            'index' => 'faker_data',
+            'index' => 'faker',
             'body' => [
                 'query' => [
                     'bool' => [
                         'must' => [
-                            // ['match' => [
-                            //     'email' => 'nicholaus.schultz@kuhic.com'
-                            // ]],
-                            ['prefix' => [
-                                'name' => $name
-                            ]],
-                            ['prefix' => [
-                                'address' => $addr
-                            ]],
-                            ['prefix' => [
-                                'email' => $email
-                            ]],
+                            // [
+                            //     'match' => [
+                            //         'email' => 'nicholaus.schultz@kuhic.com'
+                            //     ]
+                            // ],
+                            [
+                                'prefix' => [
+                                    'name' => $name
+                                ]
+                            ],
+                            [
+                                'prefix' => [
+                                    'address' => $addr
+                                ]
+                            ],
+                            [
+                                'prefix' => [
+                                    'email' => $email
+                                ]
+                            ],
                         ]
                     ]
                 ]
