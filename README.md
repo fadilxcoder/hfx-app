@@ -16,4 +16,5 @@
 - Algolia
 - - https://curl.haxx.se/ca/cacert.pem
 - - `curl.cainfo="C:\wamp64\www\hfx-app\cacert.pem"` in php.ini
+- Custom made command in `composer.json`
 
