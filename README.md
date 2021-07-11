@@ -16,8 +16,9 @@
 - Elasticsearch
 - Algolia
 - - https://curl.haxx.se/ca/cacert.pem
-- - `curl.cainfo="C:\wamp64\www\hfx-app\cacert.pem"` in php.ini
+- - `curl.cainfo="C:\wamp64\www\hfx-app\cacert.pem"` in php.ini via Apache
 - Custom made command in `composer.json`
+- Curl extension should be activated in php
 
 ## Converting PDF to text (.md)
 
