@@ -1,5 +1,6 @@
 # HFX App Dev
 
+
 ---
 
 ## Notes
@@ -17,4 +18,12 @@
 - - https://curl.haxx.se/ca/cacert.pem
 - - `curl.cainfo="C:\wamp64\www\hfx-app\cacert.pem"` in php.ini
 - Custom made command in `composer.json`
+
+## Converting PDF to text (.md)
+
+- https://packagist.org/packages/spatie/pdf-to-text
+- `composer require spatie/pdf-to-text`
+- Call : `UsersController - readPdf()`
+- PDFs : `public/assets/pdf/*.pdf`
+- Mardown file (.md) : `public/text-file.md` 
 

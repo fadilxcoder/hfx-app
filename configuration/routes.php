@@ -14,3 +14,4 @@ $route['users'] = 'UsersController@dashboard';
 $route['elastic-search'] = 'UsersController@searchEngine';
 $route['algolia'] = 'UsersController@algoliaSearch';
 $route['debugger'] = 'UsersController@debugger';
+$route['pdf'] = 'UsersController@readPdf';

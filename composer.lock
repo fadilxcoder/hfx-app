@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "5f1df90a6f44f1867ba5985f0877457b",
+    "content-hash": "96b142cb4e1530536729e5575c005825",
     "packages": [
         {
             "name": "algolia/algoliasearch-client-php",
@@ -1571,6 +1571,63 @@
             "time": "2020-05-12T15:16:56+00:00"
         },
         {
+            "name": "spatie/pdf-to-text",
+            "version": "1.4.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/spatie/pdf-to-text.git",
+                "reference": "a7a9268a216f3cece08d1fd4d9c3a2663e2f2882"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/spatie/pdf-to-text/zipball/a7a9268a216f3cece08d1fd4d9c3a2663e2f2882",
+                "reference": "a7a9268a216f3cece08d1fd4d9c3a2663e2f2882",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^7.3|^8.0",
+                "symfony/process": "^4.0|^5.0"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^8.0|^9.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Spatie\\PdfToText\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Freek Van der Herten",
+                    "email": "freek@spatie.be",
+                    "homepage": "https://spatie.be",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Extract text from a pdf",
+            "homepage": "https://github.com/spatie/pdf-to-text",
+            "keywords": [
+                "pdf-to-text",
+                "spatie"
+            ],
+            "support": {
+                "issues": "https://github.com/spatie/pdf-to-text/issues",
+                "source": "https://github.com/spatie/pdf-to-text/tree/1.4.0"
+            },
+            "funding": [
+                {
+                    "url": "https://spatie.be/open-source/support-us",
+                    "type": "custom"
+                }
+            ],
+            "time": "2020-11-27T07:31:27+00:00"
+        },
+        {
             "name": "symfony/deprecation-contracts",
             "version": "v2.2.0",
             "source": {
@@ -2039,6 +2096,68 @@
                 }
             ],
             "time": "2021-01-27T10:15:41+00:00"
+        },
+        {
+            "name": "symfony/process",
+            "version": "v5.2.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/symfony/process.git",
+                "reference": "bd8815b8b6705298beaa384f04fabd459c10bedd"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/symfony/process/zipball/bd8815b8b6705298beaa384f04fabd459c10bedd",
+                "reference": "bd8815b8b6705298beaa384f04fabd459c10bedd",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.2.5",
+                "symfony/polyfill-php80": "^1.15"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Symfony\\Component\\Process\\": ""
+                },
+                "exclude-from-classmap": [
+                    "/Tests/"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Fabien Potencier",
+                    "email": "fabien@symfony.com"
+                },
+                {
+                    "name": "Symfony Community",
+                    "homepage": "https://symfony.com/contributors"
+                }
+            ],
+            "description": "Symfony Process Component",
+            "homepage": "https://symfony.com",
+            "support": {
+                "source": "https://github.com/symfony/process/tree/v5.2.1"
+            },
+            "funding": [
+                {
+                    "url": "https://symfony.com/sponsor",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/fabpot",
+                    "type": "github"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
+                    "type": "tidelift"
+                }
+            ],
+            "time": "2020-12-08T17:03:37+00:00"
         },
         {
             "name": "tubalmartin/cssmin",
