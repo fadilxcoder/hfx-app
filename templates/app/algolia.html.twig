@@ -1,0 +1,57 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Algolia{% endblock %}
+
+{% block stylesheet %}
+    {{ parent() }}
+{% endblock %}
+
+{% block body %}
+    <div class="container-fluid">
+        <div class="card mb-3">
+            <div class="card-header"><i class="fa fa-table"></i> Algolia ({{ total }})</div>
+            <div class="card-body">
+                <form class="form-inline text-center" action="" method="POST">
+                    <div class="form-group">
+                        <input class="form-control" type="text" name="name" value="{{ search }}" placeholder="Name">
+                        <label>&nbsp;&nbsp;&nbsp;&nbsp;</label>
+                    </div>
+                    <button class="btn btn-primary btn-default" name="search">Search..</button>
+                </form>
+                <hr/>
+                
+                <div class="table-responsive">
+                    <table class="table table-bordered" width="100%" cellspacing="0">
+                        <thead>
+                            <tr>
+                                <th>No</th>
+                                <th>Username</th>
+                                <th>Name</th>
+                                <th>Obj. ID</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for _result in results %}
+                            <tr>
+                                <td>{{ loop.index }}</td>
+                                <td>{{ _result.username }}</td>
+                                <td>{{ _result.name }}</td>
+                                <td>{{ _result.objectID }}</td>
+                            </tr>
+                            {% else %}
+                            <tr>
+                                <td colspan="3" class="text-center"> No data !</td>
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+{% endblock %}
+
+{% block javascript %}
+    {{ parent() }}
+{% endblock %}

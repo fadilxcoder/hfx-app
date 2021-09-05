@@ -1,0 +1,41 @@
+<!--
+    +------------------------------------------+
+    ¦              FADILXCODER                 ¦
+    +------------------------------------------+
+-->
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+        <title>{% block title %}{% endblock %} | {{ app.name }}</title>
+        <meta name="Description" content=""/>
+        <meta name="Keywords" content=""/>
+        <meta charset="utf-8"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="author" content="fadilxcoder" />
+        <meta name="copyright" content="fadilxcoder" />
+        <meta name="robots" content="index,follow"/>
+        <link rel="icon" href="{{ app.uri }}favicon.ico">
+        {% block stylesheet %}
+            <link rel="stylesheet" href="{{ app.uri }}assets/vendor/bootstrap/css/bootstrap.min.css">
+            <link rel="stylesheet" href="{{ app.uri }}assets/vendor/font-awesome/css/font-awesome.min.css">
+            <link rel="stylesheet" href="{{ app.uri }}assets/vendor/datatables/dataTables.bootstrap4.css">
+            <link rel="stylesheet" href="{{ app.uri }}assets/css/sb-admin.css">
+        {% endblock %}
+    </head>
+    <body class="bg-dark">
+        <div class="container">
+            {% block body %}{% endblock %}
+        </div>
+        {% block javascript %}
+            <script src="{{ app.uri }}assets/vendor/jquery/jquery.min.js"></script>
+            <script src="{{ app.uri }}assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+            <script src="{{ app.uri }}assets/vendor/jquery-easing/jquery.easing.min.js"></script>
+            <script src="{{ app.uri }}assets/vendor/datatables/jquery.dataTables.js"></script>
+            <script src="{{ app.uri }}assets/vendor/datatables/dataTables.bootstrap4.js"></script>
+            <script src="{{ app.uri }}assets/js/sb-admin.min.js"></script>
+            <script src="{{ app.uri }}assets/js/sb-admin-datatables.min.js"></script>
+            <script src="{{ app.uri }}assets/js/scripts.js"></script>
+        {% endblock %}
+    </body>
+</html>

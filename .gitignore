@@ -1,5 +1,4 @@
-/.php_cs.cache
-/Thumbs.db
 /vendor
-/.idea
-/php_error_log
+/node_modules
+dist/*.*
+!.gitkeep
