@@ -24,7 +24,8 @@
         "algolia/algoliasearch-client-php": "^3.1",
         "josantonius/session": "^1.1",
         "elasticsearch/elasticsearch": "^7.14",
-        "spatie/pdf-to-text": "^1.4"
+        "spatie/pdf-to-text": "^1.4",
+        "mrclay/minify": "^3.0"
     },
     "require-dev": {
         "tracy/tracy": "^2.7",

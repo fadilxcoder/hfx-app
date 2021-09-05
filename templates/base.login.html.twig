@@ -17,10 +17,12 @@
         <meta name="robots" content="index,follow"/>
         <link rel="icon" href="{{ app.uri }}favicon.ico">
         {% block stylesheet %}
-            <link rel="stylesheet" href="{{ app.uri }}assets/vendor/bootstrap/css/bootstrap.min.css">
+            <link rel="stylesheet" href="{{ app.uri }}min/?f=assets/vendor/bootstrap/css/bootstrap.min.css,assets/vendor/font-awesome/css/font-awesome.min.css,assets/vendor/datatables/dataTables.bootstrap4.css,assets/css/sb-admin.css">
+            {#
             <link rel="stylesheet" href="{{ app.uri }}assets/vendor/font-awesome/css/font-awesome.min.css">
             <link rel="stylesheet" href="{{ app.uri }}assets/vendor/datatables/dataTables.bootstrap4.css">
-            <link rel="stylesheet" href="{{ app.uri }}assets/css/sb-admin.css">
+            <link rel="stylesheet" href="{{ app.uri }}assets/css/sb-admin.css"> 
+            #}
         {% endblock %}
     </head>
     <body class="bg-dark">
@@ -28,6 +30,8 @@
             {% block body %}{% endblock %}
         </div>
         {% block javascript %}
+            <script src="{{ app.uri }}min/?f=assets/vendor/jquery/jquery.min.js,assets/vendor/bootstrap/js/bootstrap.bundle.min.js,assets/vendor/jquery-easing/jquery.easing.min.js,assets/vendor/datatables/jquery.dataTables.js,assets/vendor/datatables/dataTables.bootstrap4.js,assets/js/sb-admin.min.js,assets/js/sb-admin-datatables.min.js,assets/js/scripts.js"></script>
+            {#
             <script src="{{ app.uri }}assets/vendor/jquery/jquery.min.js"></script>
             <script src="{{ app.uri }}assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
             <script src="{{ app.uri }}assets/vendor/jquery-easing/jquery.easing.min.js"></script>
@@ -36,6 +40,7 @@
             <script src="{{ app.uri }}assets/js/sb-admin.min.js"></script>
             <script src="{{ app.uri }}assets/js/sb-admin-datatables.min.js"></script>
             <script src="{{ app.uri }}assets/js/scripts.js"></script>
+            #}
         {% endblock %}
     </body>
 </html>
