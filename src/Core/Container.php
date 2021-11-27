@@ -6,6 +6,9 @@ use Twig\Environment;
 use Twig\Loader\FilesystemLoader;
 use \DI\ContainerBuilder as ContainerBuilder;
 use App\Core\Database as Database;
+use Monolog\Logger;
+use Monolog\Handler\StreamHandler;
+use Monolog\Handler\FirePHPHandler;
 use Symfony\Component\HttpFoundation\Request;
 class Container
 {
@@ -32,10 +35,16 @@ class Container
                         'debug' => true
                     ]
                 ),
+                Logger::class => \DI\autowire()->constructor($_ENV['LOGS_ID']),
             ]
         );
+
         $container = $containerBuilder->build();
         $container->set(Request::class, Request::createFromGlobals());
+
+        $logger = $container->get(Logger::class);
+        $logger->pushHandler(new StreamHandler(__DIR__ . '/../../' . $_ENV['LOGS_PATH'], Logger::DEBUG));
+        $logger->pushHandler(new FirePHPHandler());
 
         return $container;
     }

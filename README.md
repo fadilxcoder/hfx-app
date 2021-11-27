@@ -31,6 +31,7 @@
 - - Adjust path of autoloader in `public/min/index.php`
 - - https://github.com/mrclay/minify/blob/c80add80a210b29a5f45d7c66b664748ab05544c/docs/UserGuide.wiki.md (Creating Minify URLs)
 - - https://github.com/mrclay/minify/blob/master/docs/Debugging.wiki.md (Javascript/CSS Problems)
+- https://packagist.org/packages/monolog/monolog - `composer require monolog/monolog`
 
 ## Converting PDF to text (.md)
 

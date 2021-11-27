@@ -10,6 +10,10 @@ use Josantonius\Session\Session;
 use App\Repository\UsersRepository;
 use App\Services\ElasticSearchService;
 use Symfony\Component\HttpFoundation\Request;
+use Monolog\Logger;
+use Monolog\Handler\StreamHandler;
+use Monolog\Handler\FirePHPHandler;
+
 
 class AppController extends Controller
 {
@@ -17,13 +21,17 @@ class AppController extends Controller
 
     private $usersRepository;
 
+    private $logger;
+
     public function __construct(
         Environment $twig,
         TwigEnv $twigEnv,
-        UsersRepository $usersRepository
+        UsersRepository $usersRepository,
+        Logger $logger
     )
     {
         $this->usersRepository = $usersRepository;
+        $this->logger = $logger;
         parent::__construct($twig, $twigEnv);
     }
 
@@ -31,6 +39,15 @@ class AppController extends Controller
     {
         $users = $this->usersRepository->getAllUsers();
         shuffle($users);
+
+        // Create the logger
+        // $logger = new Logger('my_logger');
+        // // Now add some handlers
+        // $logger->pushHandler(new StreamHandler(__DIR__.'/my_app.log', Logger::DEBUG));
+        // $logger->pushHandler(new FirePHPHandler());
+
+        // You can now use your logger
+        $this->logger->info($_SERVER['HTTP_USER_AGENT']);
 
         return $this->render(self::VIEW . 'dashboard.html.twig', [
             'users' => array_slice($users, 15),
