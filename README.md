@@ -41,3 +41,18 @@
 - PDFs : `public/pdf/*.pdf`
 - Mardown file (.md) : `public/pdf-to-text/text-file.md` 
 
+## ESX Query DSL (Domain Specific Language)
+
+```
+{
+	"query": {
+		"bool": {
+			"must": {
+				"prefix": {
+					"name": "wisoky"
+				}
+			}
+		}
+	}
+}
+```

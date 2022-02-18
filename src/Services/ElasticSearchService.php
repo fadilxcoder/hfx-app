@@ -39,17 +39,17 @@ class ElasticSearchService
                             // ],
                             [
                                 'prefix' => [
-                                    'name' => $name
+                                    'name' => strtolower($name)
                                 ]
                             ],
                             [
                                 'prefix' => [
-                                    'address' => $addr
+                                    'address' => strtolower($addr)
                                 ]
                             ],
                             [
                                 'prefix' => [
-                                    'email' => $email
+                                    'email' => strtolower($email)
                                 ]
                             ],
                         ]

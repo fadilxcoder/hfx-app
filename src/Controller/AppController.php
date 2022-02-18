@@ -101,7 +101,7 @@ class AppController extends Controller
         return $this->render(self::VIEW . 'elasticsearch.html.twig', [
             'results' => $resp,
             'search' => $search,
-            'total' => count($resp),
+            'total' => (null !== $resp) ? count($resp) : 0,
         ]);
     }
 
