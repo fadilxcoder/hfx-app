@@ -12,10 +12,10 @@ class AuthController extends Controller
 {
     private const VIEW = 'auth/';
 
-    public function login(Request $request, UserService $userService, UsersRepository $usersRepository)
+    public function login(Request $request, UserService $userService, UsersRepository $usersRepository, Session  $session)
     {
         $response = [];
-        if (null !== Session::get("id_user")) {
+        if (null !== $session->get("id_user")) {
             $this->goToDashboard();
         }
         
@@ -27,10 +27,10 @@ class AuthController extends Controller
             
             if ($validUser) {
                 
-                Session::setPrefix($_ENV['SESSION_PRFX']);
-                Session::set("id_user", $validUser->id_user);
-                Session::set("name_user", $validUser->name);
-                Session::set("uname_user", $validUser->username);
+                // Session::setPrefix($_ENV['SESSION_PRFX']);
+                $session->set("id_user", $validUser->id_user);
+                $session->set("name_user", $validUser->name);
+                $session->set("uname_user", $validUser->username);
                 $usersRepository->updateUserLastLogin($validUser);
                 $this->goToDashboard();
             }

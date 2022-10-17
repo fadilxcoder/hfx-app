@@ -10,7 +10,7 @@ use App\Services\SecurityService;
 
 class Controller
 {
-    private $twig, $twigEnv;
+    private $twig, $twigEnv, $session;
 
     public function __construct(
         Environment $twig, 
@@ -18,8 +18,9 @@ class Controller
     ) {
         $this->twig = $twig;
         $this->twigEnv = $twigEnv;
-        Session::setPrefix($_ENV['SESSION_PRFX']);
-        Session::init();
+        // Session::setPrefix($_ENV['SESSION_PRFX']);
+        $this->session = new Session();
+        $this->session->start();
 
         if (get_called_class() !== AuthController::class) {
             (SecurityService::accessibility() === false) ? $this->redirectTo('') : null;
@@ -31,7 +32,7 @@ class Controller
         $parameters['app'] = [
             'uri' => $this->twigEnv->appUri(),
             'name' => $this->twigEnv->appName(),
-            'session' => Session::get(),
+            'session' => $this->session->all(),
         ];
 
         $this->twig->addExtension(new \Twig\Extension\DebugExtension());

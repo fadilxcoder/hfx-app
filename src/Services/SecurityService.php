@@ -8,7 +8,8 @@ class SecurityService
 {
     public static function accessibility()
     {
-        if (null === Session::get('id_user')) {
+        $session = new Session();
+        if (null === $session->get('id_user')) {
             return false;
         }
         
